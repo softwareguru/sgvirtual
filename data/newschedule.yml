@@ -1,0 +1,24 @@
+schedule:
+  enable : true
+  title_outline : "Agenda 2021"
+  title : ""
+ 
+  
+  schedule_tab:
+      ################# tab itam loop ################
+    - title : "Martes 01 de junio"
+      date_time : "Track Data (science, engineering, management, visualization)."
+      tracks: "Track Data (science, engineering, management, visualization)."
+          
+    ################# tab itam loop ################
+    - title : "Martes 08 de junio"
+      date_time : "Track  DevOps (Agile, Testops, continuous delivery)."
+      tracks: ""
+          
+    ################# tab itam loop ################
+    - title : "Martes 15 de junio"
+      date_time : "Track Cloud Operations (cloud native, observability, service mesh)"
+      tracks: ""
+
+    ################# tab itam loop ################
+  

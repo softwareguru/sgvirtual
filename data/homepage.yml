@@ -1,0 +1,77 @@
+############################# banner ################################
+banner:
+  enable : true
+  title : "SG Virtual Conference"
+  date_time : "28 al 30 de marzo de 2023."
+  venue: "Sede: Donde tú te encuentres."
+  slogan: "Testing, ciberseguridad y desarrollo acelerado."
+  description : |
+
+    SG Virtual es un congreso en línea gratuito para profesionistas de software donde 
+    expertos de todo el mundo comparten conocimiento y mejores prácticas para construir software grandioso.
+
+  button1:
+    enable : true
+    label : "Envía una propuesta"
+    link : "https://convoca.dev/sgvirtual2023/cfp"
+  button2:
+    enable : true
+    label : "Patrocina"
+    link : "/sgvirtual/patrocina"
+
+
+########################## timer #################################
+timer:
+  enable : false
+  title : "**Count the day** <br> until conference start"
+  # set timer
+  year: "2021"
+  month: "06"
+  day: "01"
+  hour: "12"
+
+
+
+####################### Schedule #############################
+schedule:
+  enable : false
+  # schedule data comes from "schedule.yml" file
+
+####################### pricing #############################
+pricing:
+  enable : false
+  # pricing data comes from "pricing.yml" file
+
+########################## speaker ##########################
+speaker:
+  enable : false
+  title_outline : "Conferencistas"
+  title : "Nuestros gurús"
+  content : "SG Virtual reúne conferencistas expertos."
+  # speaker content comes from "content/speaker" folder
+
+######################### sponsor ############################
+sponsor:
+  enable :  false
+  # sponsor content comes from "data/sponsors.yml"
+
+
+################################ venue ########################
+venue:
+  enable : false
+  title : "Venue location"
+  image : "images/bg/cta-bg.jpg"
+  date : "18 - 21 December, 2019"
+  location : "85 Golden Street, Darlinghurst <br>ERP 2019, United States"
+  button: 
+    enable : true
+    label : "View Map location"
+    link : "contact"
+
+############################### Blog ######################################
+blog:
+  enable : false
+  title_outline : "Noticias"
+  title : "Avisos y novedades"
+  content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
+  # blog content comes from "content/blog" folder

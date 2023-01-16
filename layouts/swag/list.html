@@ -1,0 +1,30 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data }}
+
+
+<section class="speaker-2 section bg-gray">
+  <div class="container">
+    <div class="row section-heading">
+      <div class="col-lg-9">
+        <div class="heading">
+          <span class="stroke-text">{{ .Title }}</span>
+          <div class="pl-90 content">
+            {{ .Content }}
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      {{ range .Data.Pages }}
+      <div class="col-sm-6">
+        {{ .Render "post" }}
+      </div>
+      {{ end }}
+    </div>
+
+  </div>
+</section>
+
+{{ end }}

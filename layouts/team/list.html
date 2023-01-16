@@ -1,0 +1,37 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data }}
+
+
+<section class="speaker-2 section bg-gray">
+  <div class="container">
+    <div class="row section-heading">
+      <div class="col-lg-9">
+        <div class="heading">
+          <span class="stroke-text">{{ .Title }}</span>
+          <div class="pl-90 content">
+            {{ .Content }}
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="speaker-strip">
+      {{ range .Data.Pages.ByTitle }}
+      <div class="speaker-item">
+        <div class="speaker-block">
+          <div class="headshot-box">
+            <a href="mailto:{{ .Params.email }}">
+              <img src="/sgvirtual{{ .Params.Image }}" alt="{{ .Title }}" class="img-fluid rounded-circle">
+            </a>
+          </div>
+          <div class="speaker-info text-center">
+            <h4 class="mb-0 mt-3">{{ .Title }}</h4>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ end }}

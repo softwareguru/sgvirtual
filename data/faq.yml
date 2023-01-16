@@ -1,0 +1,71 @@
+################################# Faq ####################################
+faq:
+  title_outline : "FAQ"
+  title : "Preguntas frecuentes"
+  content: ""
+
+  faq_item:
+
+    - title: ¿Tiene algún costo?
+      content: |
+        No, SG Virtual Conference 2023 es totalmente gratuito. 
+
+    - title : "¿Cuál será el horario del evento?"
+      content : | 
+        SG Virtual Conference 2023 se realizará del 28 al 30 de marzo de 10 am a 5 pm de la tarde (GMT -6, hora del centro de México)
+
+    - title : "¿Cómo reservo mi lugar para sesiones específicas?"
+      content : | 
+        Al registrarte al evento tendrás acceso a todas las sesiones de tipo "charla". Para los talleres, requerirás registrarte individualmente a cada uno.
+        
+    - title : "¿Qué software necesito para conectarme?"
+      content : "Solo necesitas una computadora con un navegador web actualizado, de preferencia Google Chrome o Mozilla Firefox."
+
+    - title : "¿Dónde puedo ver las grabaciones?"  
+      content: | 
+        Las grabaciones del evento  estarán disponibles en la misma página de transmisión. 
+
+        Ingresa y una vez que tengas una sesión activa podrás dar click en la parte superior izquierda del menú de transmisión y se desplegará una lista de las distintas sesiones.
+        Si seleccionas una sesión anterior podrás ver la grabación.
+        
+        ![Menú con sesiones anteriores](/sgvirtual/images/menu-sesiones-anteriores.jpg "Menu con sesiones anteriores")
+
+    - title : "¿Cómo puedo contactar con otros participantes y ponentes?"
+      content : | 
+        Para manejar esta comunicación estaremos utilizando slack. Te compartiremos vía mail la liga para ingresar al [slack del evento.](https://join.slack.com/t/sgvirtual/shared_invite/zt-ps50jg36-EbTHE32LqVWc4pTzydIJiw)
+
+        Los canales que estaremos manejando son:
+          * En #general para conversaciones generales (saludos desde X), dinámicas, y temas que no estén atadas a una sesión.
+          * En #session es donde se estará comentando sobre la sesión en curso.
+          * En #support problemas con la herramienta, atención a asistentes y patrocinadores.
+
+        Además cada patrocinador tendrá un canal en slack, quienes estarán organizando interesantes dinámicas, y muchos estarán buscando talento.
+
+    - title : "¿Cómo puedo solicitar soporte?"
+      content : "Por favor envía un mensaje en el canal de #support en el Slack de SG Virtual."
+
+    - title : "¿Darán constancias de participación?"
+      content : | 
+        Sí. A todos los asistentes registrados al evento, les haremos llegar su constancia de participación.
+
+        Importante: la constancia se genera con el nombre completo con el que te registraste.
+         
+            
+    - title : "¿Las grabaciones y slides de las sesiones se compartirán?"
+      content : "Todas las sesiones serán grabadas y se compartirán con los asistentes del evento, así como las presentaciones (slides)."
+
+
+    - title : "Código de conducta"
+      content : "SG Virtual Enterprise es una conferencia amigable en la que todos deben sentirse bienvenidos, seguros y cómodos. Consulta el [Código de conducta](https://sg.com.mx/sgvirtual/coc/).</a>"
+
+    - title : "Contáctanos"
+      content : "Si no hemos logrado resolver tus preguntas, por favor contáctanos en sgvirtual@sg.com.mx. También puedes consultar nuestro  [aviso de privacidad](https://sg.com.mx/sgvirtual/privacy/)."
+
+
+
+  ################ support #################
+  support:
+    title : "¿Necesitas soporte?"
+    button:
+      lable : "Contáctanos"
+      link : "contact"

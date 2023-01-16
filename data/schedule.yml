@@ -1,0 +1,31 @@
+schedule:
+  enable : true
+  title_outline : "Agenda"
+  title : "El horario de referencia es <br>Ciudad de México (GMT-6)"
+  schedule_tab:
+      ################# tab itam loop ################
+    - title : "Lunes"
+      date_time : "30 de noviembre"
+      tracks: "Agilidad y cultura"
+          
+    ################# tab itam loop ################
+    - title : "Martes"
+      date_time : "1 de diciembre"
+      tracks: "Arquitectura de software"
+          
+    ################# tab itam loop ################
+    - title : "Miércoles"
+      date_time : "2 de diciembre"
+      tracks: "Ciencia e ingeniería de datos"
+
+    ################# tab itam loop ################
+    - title : "Jueves"
+      date_time : "3 de diciembre"
+      tracks: "Carrera, testing & UX"
+          
+    ################# tab itam loop ################
+    - title : "Viernes"
+      date_time : "4 de diciembre"
+      tracks: "Programación e IoT"
+          
+

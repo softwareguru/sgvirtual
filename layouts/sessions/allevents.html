@@ -1,0 +1,28 @@
+{{ define "main" }}
+
+
+<section class="speaker-2 section bg-gray">
+    <div class="container">
+        <div class="row section-heading">
+            <div class="col-lg-9">
+                <div class="heading">
+                    <span class="stroke-text">{{ .Title }}</span>
+                    <div class="pl-90 content">
+                      {{ .Content }}
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">         
+            <ul class="event-list">
+              {{ range sort .Data.Pages.ByTitle.Reverse }}
+                <li><a class="session-title" href="{{.Permalink}}">{{ .Params.title }}</a> ({{ .Pages | len }} sesiones)</li>
+              {{ end }}
+            </ul>
+        </div>
+    </div>    
+</section>
+
+{{ end }}
+

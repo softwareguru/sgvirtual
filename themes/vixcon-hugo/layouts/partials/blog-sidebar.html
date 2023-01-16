@@ -1,0 +1,19 @@
+<div class="col-lg-4 pl-lg-5 pt-4">
+
+  <div class="widget mb-5 list-item">
+    <h5 class="widget-title mb-4">{{ i18n "categories" }}</h5>
+    {{- if isset .Site.Taxonomies "categories" }}
+    {{- if not (eq (len .Site.Taxonomies.categories) 0) }}
+    <ul class="list-unstyled">
+      {{- range $name, $items := .Site.Taxonomies.categories }}
+      <li>
+        <a class="align-items-center d-flex justify-content-between"
+          href="{{ `categories/` | relLangURL }}{{ $name | urlize | lower }}">{{ $name | title | humanize }}<span>{{len $items}}</span></a>
+      </li>
+      {{- end }}
+    </ul>
+    {{- end }}
+    {{- end }}
+  </div>
+
+</div>

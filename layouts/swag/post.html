@@ -1,0 +1,14 @@
+<article class="swag box-shadow mb-4">
+    <div class="content py-3 px-3">
+        <h4 class="my-3">{{ .Title | markdownify }}</h4>
+        <div class="swag-info">
+            <img class="img-fluid" src="/sgvirtual{{ .Params.Image }}">
+            <p class="mb-4">{{ .Summary }}</p>
+        </div>
+        <div class="text-right">
+            <a href="{{ .Params.form_link }}" target="_blank" class="read-more text-color h6">
+                {{ i18n "participa" }} <i class="tf-ion-android-arrow-forward mr-4"></i>
+            </a>
+        </div>
+    </div>
+</article>

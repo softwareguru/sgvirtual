@@ -1,0 +1,8 @@
+public/
+resources/
+.firebase/
+firebase-debug.log
+*Zone.Identifier
+.DS_Store
+.venv
+

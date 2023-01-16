@@ -1,0 +1,180 @@
+
+######################## default configuration ####################
+baseURL = "https://sg.com.mx/sgvirtual/"
+publishDir = "public/sgvirtual"
+
+title = "SG Virtual"
+enableRobotsTXT = true
+languageCode = "es-MX"
+RemovePathAccents = true
+
+theme = "vixcon-hugo"
+# post pagination
+paginate = "10"
+# post excerpt
+disqusShortname = "" # get your shortname form here : https://disqus.com
+
+# output
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[sitemap]
+  changefreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = 0.6
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  speaker = "speakers"
+  track = "tracks"
+
+
+
+############################# Plugins ##############################
+# CSS Plugins
+[[params.plugins.css]]
+link = "/sgvirtual/plugins/bootstrap/css/bootstrap.min.css"
+[[params.plugins.css]]
+link = "/sgvirtual/plugins/themefisher-font/themefisher-font.min.css"
+[[params.plugins.css]]
+link = "https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "/sgvirtual/plugins/jquery/jquery.js"
+[[params.plugins.js]]
+link = "/sgvirtual/plugins/bootstrap/js/bootstrap.min.js"
+[[params.plugins.js]]
+link="https://kit.fontawesome.com/4a6d2efc2e.js"
+[[params.plugins.js]]
+link="https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.js"
+
+
+############################## navigation ###############################
+
+
+#################### default parameters ################################
+[params]
+logo = "/sgvirtual/images/logo.jpg"
+home = "Home"
+add_calendar = false
+
+# Meta data
+description = """SG Virtual es un congreso en línea gratuito para 
+profesionistas de software donde expertos de todo el mundo comparten conocimiento 
+y mejores prácticas para construir software grandioso."""
+images = ["images/sgvirtual2023-card.jpg"]
+twitter_user = "@RevistaSG"
+email = "eventos@sg.com.mx"
+author = "Software Guru"
+disclaimer = ""
+
+start_date = "2023-03-28T10:00-05:00"
+end_date = "2023-03-30T17:00-05:00"
+
+footer_content = "Es otro fantástico evento de [Software Guru](https://sg.com.mx). <br>SG es el medio preferido por las personas de habla hispana interesadas en construir software de alto desempeño."
+
+
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+# Google Analitycs
+google_analytics = "G-VH1JMGJDWB"
+
+# search for blog page
+search = true
+
+days_arr = ["Lunes 30 de noviembre", "Martes 1 de diciembre", "Miércoles 2 de diciembre", "Jueves 3 de diciembre", "Viernes 4 de diciembre"]
+
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation button
+[params.navigation_button]
+enable = false
+label = "Regístrate"
+link = "/sgvirtual/register/"
+
+
+############################# social icon ############################
+[[params.social]]
+icon = "tf-ion-ios-email"
+link = "mailto:sgvirtual@sg.com.mx"
+
+[[params.social]]
+icon = "tf-ion-social-facebook"
+link = "https://facebook.com/softwareguru"
+
+[[params.social]]
+icon = "tf-ion-social-twitter"
+link = "https://twitter.com/RevistaSG"
+
+[[params.social]]
+icon = "tf-ion-social-youtube"
+link = "https://youtube.com/user/RevistaSG"
+
+[[params.footer_links]]
+name = "Código de conducta"
+link = "/sgvirtual/coc"
+
+[[params.footer_links]]
+name = "Privacidad de datos"
+link = "/sgvirtual/privacy"
+
+[[params.footer_links]]
+name = "Equipo organizador"
+link = "/sgvirtual/team"
+
+[[params.footer_links]]
+name = "Contacto"
+link = "mailto:sgvirtual@sg.com.mx"
+
+
+[menu]
+    
+  #[[languages.es.menu.main]]
+  #name = "Agenda"
+  #identifier = "agenda"
+  #URL = "/schedule/"
+  #weight = 1  
+
+  [[menu.main]]
+  name = "Sesiones Anteriores"
+  identifier = "sesiones"
+  URL = "/sessions/"
+  weight = 1
+
+  #[[menu.main]]
+  #name = "Programa"
+  #URL = "/schedule/"
+  #weight = 1
+ 
+  [[menu.main]]
+  name = "Conferencistas anteriores"
+  URL = "/speakers/archive"
+  weight = 2
+
+  #[[menu.main]]
+  #name = "Kit virtual"
+  #URL = "/swag/"
+  #weight = 3
+
+  #[[menu.main]]
+  #name = "Networking"
+  #URL = "/networking/"
+  #weight = 4
+
+  [[menu.main]]
+  name = "FAQ"
+  URL = "/faq/"
+  weight = 5
+

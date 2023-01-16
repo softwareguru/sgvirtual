@@ -1,0 +1,38 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+
+<section class="speaker-2 section bg-gray">
+  <div class="container">
+    <div class="row section-heading">
+      <div class="col-lg-9">
+        <div class="heading">
+          <span class="stroke-text">{{ .Title }}</span>
+          <div class="pl-90 content">
+            {{ .Content }}
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="speaker-strip">
+      {{ range where (where .Site.Pages.ByTitle "Type" "speakers") "Kind" "term" }}
+        <div class="speaker-item">
+          <div class="speaker-block">
+            <div class="headshot-box">
+              <a href="{{.Permalink}}">              
+                <img src="{{ with .Params.images }}{{ index . 0 | relURL }}{{ else }}/sgvirtual/images/speakers/speaker.jpg{{ end }}" alt="{{ .Title }}" class="img-fluid rounded-circle">
+              </a>
+            </div>
+            <div class="speaker-info text-center">
+              <h4 class="mb-0 mt-3"><a href="{{.Permalink}}">{{ .Title }}</a></h4>
+            </div>
+          </div>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ end }}

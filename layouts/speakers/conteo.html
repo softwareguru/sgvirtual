@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+<section class="speaker-2 section bg-gray">
+  <div class="container">
+    <table data-toggle="table">
+      <thead>
+        <tr>
+          <th>Speaker</th>
+          <th data-sortable="true">Sesiones</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range where (where .Site.Pages.ByTitle "Type" "speakers") "Kind" "term" }}
+        <tr>
+          <td><a href="{{.Permalink}}">{{.Title}}</a></td>
+          <td>{{.Data.Pages | len }}</td>
+        </tr>
+        {{ end }}
+      </tbody>
+    </table>
+  </div>
+</section>
+
+{{ end }}
