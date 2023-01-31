@@ -44,13 +44,6 @@ Para los estudiantes, **acercarlos a temas actuales** es una gran oportunidad de
 * Disponibilidad de los coordinadores de sede para una llamada con el fin de explicarles la plataforma que utilizaremos para el evento. Así, asegurar que la transmisión se lleve a cabo con éxito.
 
 
-## Lineamientos de participación
-
-* Difusión del evento con material descargable y difusión en redes sociales.
-* Entregar, posterior al evento, la lista de asistentes por sesión en formato de Excel con la plantilla que se les hará llegar a los organizadores del evento.
-* Entregar datos para constancias de coordinador de sede virtual y personal de apoyo.
-* Registrar una sede virtual.
-
 <br>
 <br>
 <center>
