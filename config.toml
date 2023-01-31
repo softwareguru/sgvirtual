@@ -157,7 +157,28 @@ link = "mailto:sgvirtual@sg.com.mx"
   #name = "Programa"
   #URL = "/schedule/"
   #weight = 1
- 
+
+  [[menu.main]]
+    #identifier = "sedes"
+    name = "Sedes Virtuales"
+    url = "/sedes-virtuales"
+    weight = 2
+
+  #[[menu.main]]
+    #identifier = "category1"
+    #name = "Sedes Virtuales"
+    #url = "/sedes-virtuales"
+    #parent = "sedes"
+    #weight = 1
+
+  #[[menu.main]]
+    #identifier = "category2"
+    #name = "Directorio de sedes virtuales"
+    #url = "/directorio-de-sedes-virtuales"
+    #parent = "sedes"
+    #weight = 2
+
+
   [[menu.main]]
   name = "Conferencistas anteriores"
   URL = "/speakers/archive"
