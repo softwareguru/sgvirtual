@@ -1,0 +1,31 @@
+slot,time_start,time_end,id,title,abstract,Tipo,speaker,Email
+b1,2023-03-29T10:00:00-06:00,2023-03-29T10:40:00-06:00,TBD,Sesión por confirmar,,Charla,,
+b2,2023-03-29T10:40:00-06:00,2023-03-29T11:20:00-06:00,737,Ciberseguridad oara CISOs,"Cómo manejar la seguridad en una empresa. Desde el enfoque de infraestructura (onpremise y nubes) software, pentest, datos, gestión (iso27001 y otros estándares) y forense. Aprender desde cero hasta nivel experto los pasos necesarios para cuidar de punta a punta la información.",Charla,Hugo de la Mora,hugodelamora@gmail.com
+b3,2023-03-29T11:30:00-06:00,2023-03-29T12:10:00-06:00,748,SBOMs : El nuevo reto en la industria!!,"¿Qué es? ¿Puedo definirlo? ¿Cómo afecta a mi trabajo? ¿Soy consumidor? ¿Soy productor? ¿Qué formato? ¿Realmente? 3 estándares..... ¿Cuál debo elegir?
+¡¡¡¡Ayuda!!!!
+
+Si algunas de estas preguntas han pasado por tu cabeza... no te preocupes, al menos no estás solo. Déjame contarte la historia de cómo los SBOM llegaron a nuestras vidas, algunas de las implicaciones y en qué parte de la historia nos encontramos en este momento.",Charla,Ix-chel Ruiz,ixchelruiz@yahoo.com
+b4,2023-03-29T12:10:00-06:00,2023-03-29T12:50:00-06:00,798,Implementar un programa efectivo de Ciberseguridad en la nube,"En esta charla abordaremos estrategias recomendadas para implementar un programa de seguridad efectivo y holístico en nube pública de AWS, (pero también servirá para otras nubes como Azure o GCP) se proporcionan estrategias tanto técnicas como humanas para mejorar la ciberseguridad en la nube pública.",Charla,Luis Moreno,jlmorenor@gmail.com
+b5,2023-03-29T12:50:00-06:00,2023-03-29T13:30:00-06:00,756,Construyendo arquitecturas zero trust sobre entornos cloud,"La adopción de arquitecturas basadas en microservicios ha crecido de manera exponencial en los últimos años. Cuando se trata de obtener la máxima seguridad utilizamos lo que se denomina arquitecturas de “confianza cero” (zero trust architecture). Las arquitecturas de este tipo establecen mecanismos de autenticación y autorización entre nuestros propios microservicios, aumentando de esta manera la seguridad en entornos altamente regulados. 
+
+El objetivo de esta charla es dar a conocer los principios básicos para construir aplicaciones utilizando arquitecturas zero trust y algunas herramientas para realizar auditorías de seguridad en entornos cloud. Entre los puntos a tratar podemos destacar:
+
+-Introducción a DevSecOps y modelado de amenazas
+-Modelo de confianza cero(zero trust) en la nube
+-Mejoras prácticas a nivel de permisos y políticas de seguridad al trabajar en entornos cloud
+-Herramientas de análisis orientadas al pentesting en entornos cloud",Charla,José Manuel Ortega,jose.manuelortega@owasp.org
+b6,2023-03-29T15:00:00-06:00,2023-03-29T15:40:00-06:00,774,"Algoritmos Cuánticos y Ciberseguridad: vulnerablidades, retos y oportunidades.","En la tecnología cuántica, campo del conocimiento en que se conjugan la física, la matemática, la ciencia computacional y la ingeniería, buscamos entender cómo la física cuántica (esto es, la física de lo tremendamente pequeño, del tamaño de los átomos y las partículas que los forman) se puede utilizar para incrementar sustancialmente nuestra capacidad de procesamiento de información, esto es, de cómputo y de comunicación de datos. Ejemplos de tecnología cuántica son la criptografía cuántica, las computadoras cuánticas y los sensores cuánticos.
+
+Las propiedades de la tecnología cuántica representan, simultáneamente, un reto mayúsculo y una oportunidad excepcional para la ciberseguridad. En particular: 
+
+a) Los mapas de ruta de las empresas productoras de computadoras cuánticas muestran que, aproximadamente en una década, estaremos en posibilidad de ejecutar algoritmos cuánticos que podrán vulnerar los sistemas de criptografía de llave pública. 
+
+b) Dicho escenario de potencial vulnerabilidad ha impulsado el análisis, diseño y estandarización de protocolos de criptografía resistentes a ataques de computadoras cuánticas. 
+
+c) El empleo de sistemas cuánticos para la creación de llaves de encriptamiento provee a la criptografía de llave privada de nuevos niveles de seguridad.
+
+En esta plática, presentaré los fundamentos matemáticos, físicos y computacionales de la intersección entre tecnología cuántica y ciberseguridad. Acto seguido, abordaré los tres escenarios  de vulnerabilidad y desarrollo descritos (a,b,c) y terminaré con una presentación de los avances que en materia de ciberseguridad (post)-cuántica han realizado el Foro Económico Mundial y otras organizaciones internacionales.",Charla,Salvador Elías Venegas Andraca,salvador@venegas-andraca.org
+b7,2023-03-29T15:40:00-06:00,2023-03-29T16:20:00-06:00,813,Todo lo que un dev necesita saber sobre criptografía,"Normalmente escuchamos términos como AES-GCM-256, HMAC-SHA3-256 y ECDSA para integrarlos en conexiones o a veces tenemos la necesidad de cifrar algo y no sabemos por dónde empezar. En esta plática entenderás todo lo necesario para usar la criptografía básica como dev.",Charla,Héctor Iván Patricio Moreno,hectorivanpatriciomoreno@gmail.com
+b8,2023-03-29T16:30:00-06:00,2023-03-29T17:10:00-06:00,771,Security PR reviews: become the watchman,"Cómo llevar a cabo PR reviews con un enfoque en seguridad, dar retroalimentación efectiva y volverlo parte de tu cultura como desarrollador de software.
+En esta charla revisaremos recursos y referencias confiables sobre tópicos de seguridad en código, útiles en las implementaciones y revisiones técnicas del mismo.",Charla,Cristina Mariscal,cristymaris@hotmail.com
+b9,2023-03-29T17:10:00-06:00,2023-03-29T18:30:00-06:00,741,Vulnerabilities Scanning with Github Actions,"In this workshop, you are going to learn how to implement security and vulnerability scanning in your code by using already available Github Actions on your Github Actions Workflows. We will cover vulnerability scanning for application code (a Python Lambda function) and for the Infrastructure as Code (Cloudformation, docker). We will learn how to use tools like: Checkov, gitleaks, Grype, and Trivy",Workshop,Enrique Cuevas,kike.cuevas@gmail.com

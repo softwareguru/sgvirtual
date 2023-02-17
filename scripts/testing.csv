@@ -1,0 +1,30 @@
+slot,time_start,time_end,id,title,abstract,Tipo,speaker,Email
+a1,2023-03-28T10:00:00-06:00,2023-03-28T10:40:00-06:00,752,"Si soy desarrollador, ¿para qué preocuparme por el testing?","Hacer testing en el desarrollo de software no es opcional en estos días. Entender la importancia de saber e incorporar los diferentes tipos de testing que existen, puede ser crucial para el éxito de nuestras soluciones. Tomemos este tiempo para platicar sobre cómo hacer testing de la mejor manera.",Charla,Rosa Maria Batista Castillo,rosa.batista@improving.com
+a2,2023-03-28T10:40:00-06:00,2023-03-28T11:20:00-06:00,TBD,Sesión por confirmar,,Charla,,
+a3,2023-03-28T11:30:00-06:00,2023-03-28T12:10:00-06:00,TBD,Sesión por confirmar,,Charla,,
+a4,2023-03-28T12:10:00-06:00,2023-03-28T12:50:00-06:00,760,El camino de aprendizaje del QA Engineer,"El rol de QA dentro de los equipos sigue evolucionando conforme los enfoques metodológicos tratan de adecuarse a la dinámica de los mercados. Mucho se ha dicho sobre lo que se espera del QA desde el punto de vista técnico y no técnico pero ¿Qué conocimientos necesita el QA Engineer, rol que todos mencionan como el super héroe de QA?¿Cómo puede adquirirlos?¿es suficiente un tutorial o un curso?¿Hay único camino de aprendizaje?
+La tecnología cambia sin cesar y así también los mercados con lo cual el concepto de la calidad de software se renueva y requiere profesionales listos para aprender cada día en un oficio donde el ser detallista y saber automatizar puede no ser suficiente. Charlemos sobre el camino de aprendizaje del QA Engineer que no tiene límite pero debe tener una dirección y sentido.",Charla,Roselyn Piñango,roselyn.pinango@gmail.com
+a5,2023-03-28T12:50:00-06:00,2023-03-28T13:30:00-06:00,769,Software Testing: Automation Forever,"La automatización de pruebas es una técnica de prueba de software que se realiza utilizando herramientas especiales de software de prueba automatizada para ejecutar un conjunto de casos de prueba. Por el contrario, la prueba manual es realizada por un ser humano que ejecuta cuidadosamente los pasos de la prueba. La automatización de pruebas de software exige inversiones considerables de dinero y recursos.
+
+En esta charla hablaremos de como implementar un proyecto de automatización desde la planeación, la selección del stack tecnológico, la arquitectura necesaria, los patrones de diseño y el cálculo del retorno de inversión para tener una automatización exitosa en nuestros proyecto.",Charla,Gilberto Sanchez Mares,gilsanchezts@outlook.com
+a6,2023-03-28T15:00:00-06:00,2023-03-28T15:40:00-06:00,812,Cómo escribir pruebas unitarias más amigables con AssertJ,"Escribir código que las máquinas entiendan es difícil, pero escribir código que entiendan los humanos es aún más complicado.
+Aprende cómo con AssertJ puedes escribir Pruebas Unitarias que sean más fáciles de leer y mantener.
+Quedan tan legibles, que parecen simples oraciones en inglés.
+Aquí te explicaremos cómo utilizar esta librería desde cero y los mejores tips para sacarle jugo.",Charla,Erik Rios,exteam@nextiva.com
+a7,2023-03-28T15:40:00-06:00,2023-03-28T16:20:00-06:00,789,"Bases de conocimiento de Testing, ¿para qué me sirven?","Cada paso que damos (laboralmente hablando y específicamente en el área de Testing), está compuesto de una serie de decisiones que nos pueden llevar al éxito o al fracaso, entonces, ¿Cómo sabemos que estamos tomando una buena decisión?, la respuesta debería ser sencilla: *Basado en la historia, especialmente en aquella que es cuantificable (Métricas)*; y si la respuesta es simple, ¿Por qué no tenemos bases de conocimiento?... y si la tuviera, ¿para qué me serviría?.
+Quizá el tener una buena base de conocimiento te ayude a responder (entre muchas otras cosas) preguntas como:
+- ¿Es buena idea integrar al equipo de testing al principio del proyecto?, todos dicen que sí, pero ¿por qué?
+- Mi caso de prueba está encontrando +/- 3 defectos, ¿y eso es bueno o malo?
+- ¿Cómo puedo justificar si pido un aumento de salario?, de causalidad, ¿ya revisaste tu histórico de productividad?
+- “Vamos a generar ahorros en el proyecto “automatizando”, porque es la tercera vez que hacemos un proyecto de este tipo...ok y...¿sabes qué vas a automatizar?, ¿en qué te basas para asegurarlo?
+
+Además del “para qué me sirve”, exploraremos algunas herramientas que nos permitirán hacer más eficientes las bases de conocimiento (Elastic search, OpenAI, y otras más…hasta sharepoint).",Charla,Miguel Angel De León Trejo,miguel.de-leon@capgemini.com
+a8,2023-03-28T16:30:00-06:00,2023-03-28T17:10:00-06:00,762,Tendencias del Testing relacionadas a DevOps,"Una tendencia común entre las empresas comerciales de todo el mundo es el aumento de las expectativas de los clientes, las actualizaciones tecnológicas y la imprevisibilidad. Muchas empresas están siguiendo procesos de desarrollo de software Agile debido a la magnitud de estos cambios y las incertidumbres que los acompañan.
+
+La necesidad de aumentar la velocidad en el desarrollo de software obliga a que las las pruebas de software nunca se encuentren aisladas, de esta manera se tienen que adoptar diferentes metodologias que habiliten el testing continuo, mundo donde las pruebas deben realizarse constantemente y en todas partes. Durante la sesión se abordaran los conceptos generales que permitiran entender las nuevas Tendencias del Testing relacionadas a DevOps.",Charla,Christian Camilo Gómez,camilo.systems@gmail.com
+a9,2023-03-28T17:10:00-06:00,2023-03-28T17:50:00-06:00,808,"Herramientas, modelos y metodologias para automatizar pruebas de software","Estado Actual de la Automatizacion, Herramientas , modelos y metodologias a seguir para automatizar las pruebas
+
+Pruebas E2E, Como hacer pruebas E2E con 
+Pruebas UI: como hacer pruebas de interfaz de usurio
+Pruebas de API: Como hacer pruebas con rest assured
+Mobile Automation: como hacer pruebas con apium",Charla,Hiran Peña Toledo,vohiran@hotmail.com

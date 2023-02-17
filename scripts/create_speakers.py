@@ -1,45 +1,53 @@
 # Script to create the session content files for Hugo from a csv file.
 
-import csv
-import os
-from slugify import slugify
+def main():
 
-with open('dataday-speakers.csv') as csvfile:
-    reader = csv.DictReader(csvfile)
+    import csv, sys, os
+    from slugify import slugify
 
-    for row in reader:
-        title = row['title']
-        events = row['events'].split(", ")
-        designation = row['designation']
-        bio = row['bio']
-        twitter = row['twitter']
-        linkedin = row['linkedin']
+    if len(sys.argv) > 1:
+        source_file = sys.argv[1]
+    else:
+        source_file = "speakers.csv"
 
-        slug = slugify(title)
+    with open('speakers.csv') as csvfile:
+        reader = csv.DictReader(csvfile)
 
-        dirname = "speakers/"+slug
-        try:
-            os.mkdir(dirname)
-        except FileExistsError:
-            print("Dir "+dirname+" exists")
-        except OSError:
-            print ("Creation of the directory "+dirname+" failed" )
-        else:
-            print ("Successfully created the directory "+dirname)
+        for row in reader:
+            title = row['title']
+            events = ["2023"]
+            designation = row['designation']
+            bio = row['bio']
+            twitter = row['twitter']
+            linkedin = row['linkedin']
 
-        filename = dirname+"/_index.md"
+            slug = slugify(title)
 
-        with open(filename, "w") as f:
+            dirname = "speakers/"+slug
+            try:
+                os.mkdir(dirname)
+            except FileExistsError:
+                print("Dir "+dirname+" exists")
+            except OSError:
+                print ("Creation of the directory "+dirname+" failed" )
+            else:
+                print ("Successfully created the directory "+dirname)
 
-            f.write("---\n")
-            f.write("title: \""+title+"\"\n")
-            f.write("designation: \""+designation+"\"\n")
-            f.write("twitter: \""+twitter+"\"\n")
-            f.write("linkedin: \""+linkedin+"\"\n")
-            f.write("events:\n")
-            for s in events:
-                f.write(" - "+s+"\n")
-            f.write("---\n\n")
-            f.write(bio)
+            filename = dirname+"/_index.md"
+
+            with open(filename, "w") as f:
+                f.write("---\n")
+                f.write(f"title: \"{title}\"\n")
+                f.write(f"designation: \"{designation}\"\n")
+                f.write(f"images:\n - images/speakers/{slug}.jpg\n")
+                f.write(f"twitter: {twitter}\n")
+                f.write(f"linkedin: {linkedin}\n")
+                f.write("events:\n")
+                for s in events:
+                    f.write(" - "+s+"\n")
+                f.write("---\n\n")
+                f.write(bio)
 
 
+if __name__ == "__main__": 
+	main() 

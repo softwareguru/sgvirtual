@@ -1,3 +1,4 @@
+
 #TopicTab {
 	background: #eee;
 	border-radius: 5px;
@@ -62,10 +63,8 @@
 
 	.content-img {
 		flex-basis: 20%;
-
 		img {
 			border-radius: 100%;
-
 			@media screen {
 				width: 100px;
 			}
@@ -81,48 +80,115 @@
 	color: $secondary-color;
 }
 
-.session-item {
+.time-row {
+	margin-bottom: 1em;
+	grid-column-gap: 1em;
+}
+
+.time-row.concurrent {
 	display: grid;
-	align-items: start;
-	grid-template-columns: 100px 1fr;
-	column-gap: 20px;
-	margin: 1em 0;
+	grid-template-columns: 50px 1fr 1fr 1fr;
+}
+
+.time-row.keynote, .time-row.break {
+	display: grid;
+	grid-template-columns: 50px 1fr;
+}
+
+@media (max-width: 576px) {
+	.time-label { grid-area: 1 / 1 / 4 / 2; }
+	.room-1 { grid-area: 1 / 2 / 2 / 5; }
+	.room-2 { grid-area: 2 / 2 / 3 / 5; }
+	.room-3 { grid-area: 3 / 2 / 4 / 5; }  
+}
+  
+.session-item {
+//	background-color: #9dc04f;
+    background-color: $primary-color;
+	margin-bottom: 0.5em;
+	padding: 0.8em;  
+	border-radius: 10px;
+}
+
+.session-item.order-0 {
+    height:95%;
 }
 
 .session-time {
 	white-space: nowrap;
-	padding-top: 1em;
+	font-size: 0.8em;
+	color: white;
 }
 
-.session-info {
-	padding: 12px;
-	border-radius: 10px
+.session-speakers {
+	color: #505050;
+}
+
+.session-room {
+	font-size: 0.8em;
+	color: #606060;
+}
+
+.local-room {
+	font-size: 0.9em;
+}
+
+.session-title {
+	font-weight: 500;
+}
+
+.session-title a {
+	color: white;
+	font-size: 1.1em;
+}
+
+.session-title a:hover {
+	text-decoration: underline;	
 }
 
 .session-info p {
 	margin: 0;
 }
 
-.machine-learning .session-info {
+.track-all {
 	background-color: #d0d0d0;
 }
-
-.strategy .session-info {
-	background-color: #d0f0d6;
+.track-keynote {
+//	background-color: #b0b0f0;
+background-color: #80c090;
 }
 
-.data-engineering .session-info {
-	background-color: #f0f0b0;
-}
-
-.workshop .session-info {
+.track-case-study {
 	background-color: #80c9fa;
 }
 
-.data-4-good .session-info {
+.track-deep-dive {
+	background-color: #e3a0ff;
+}
+.track-community {
+	background-color: #e09090;
+}
+
+.track-trends {
+	background-color: #80c090;
+}
+
+.track-workshop {
+	background-color: #e8cd08;
+}
+
+
+.session-item.lightning {
+	margin:0;
+}
+
+.networking .session-info, .community .session-info {
 	background-color: #f7b8f7;
 }
 
+.networking {
+	margin-top: 1em;
+}
 
 .color-code-list {
 	display: flex;
@@ -131,12 +197,18 @@
 }
 
 .color-code-item {
-	padding: 5px; 
+	padding: 12px 18px; 
 	border-radius: 4px; 
     margin-right: 1em;
+	color: white;
 }
 
 .session-meta {
   margin: 0;
   font-size: 0.9em;
+}
+
+#day-buttons .btn:focus, #day-buttons.btn.focus {
+	background-color: #dc3545;
+	color: #ffffff;
 }

@@ -14,16 +14,17 @@ def main():
         reader = csv.DictReader(csvfile)
 
         for row in reader:
-            nid = row['nid']
+            slot = row['slot']
             title = row['title']
-            event_slug = row['event_slug']
-            speakers = row['speakers'].split(", ")
-            date = clean_date(row['date'])
-            time_start = clean_date(row['time_start'])
-            time_end = clean_date(row['time_end'])
-            abstract = row['description']
-            video = row['video']
-            slides = row['slides']    
+            event_slug = "2023"
+            speakers = row['speaker'].split(", ")
+            time_start = row['time_start']
+            time_end = row['time_end']
+            abstract = row['abstract']
+#            video = row['video']
+#            slides = row['slides']    
+            
+            print(f"row: {slot}, {title}, {speakers}, {time_start},{time_end}")
 
             dirname = "sessions/"+event_slug
             try:
@@ -35,32 +36,24 @@ def main():
 
 
             slug = slugify(title)
-            filename =  f"sessions/{event_slug}/{slug}.md"
+            filename =  f"sessions/{event_slug}/{slot}-{slug}.md"
 
             with open(filename, "w") as f:
                 f.write("---\n")
                 f.write(f"title: \"{title}\"\n")
+                f.write(f"slug: {slug}\n")
                 f.write("speakers:\n")
                 for s in speakers:
                     f.write(f" - {s}\n")
-                f.write(f"date: {date}\n")
                 f.write(f"time_start: {time_start}\n")
                 f.write(f"time_end: {time_end}\n")
-                f.write(f"video: {video}\n")
-                f.write(f"slides: {slides}\n")
+#                f.write(f"video: {video}\n")
+#                f.write(f"slides: {slides}\n")
                 f.write("---\n\n")
                 f.write(abstract)
 
 def clean_date(strdate):
     tmpstr = strdate  
-
-    if tmpstr.endswith("12:00"):
-        tmpstr = tmpstr.replace("12:00", "12:00:00")
-    if tmpstr.endswith("13:00"):
-        tmpstr = tmpstr.replace("13:00", "13:00:00")
-
-    tmpstr = tmpstr.replace(" 12:00", "T12:00")
-    tmpstr = tmpstr.replace(" 13:00", "T13:00")
 
     return tmpstr
 

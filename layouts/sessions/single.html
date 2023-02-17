@@ -30,7 +30,7 @@
             <h3>{{ .Title }}</h3>
             {{ with .Params.time_start }}
               {{ if lt now ( . | time ) }}
-            <p class="session-meta" id="date">{{ with .Params.time_start | time }}{{ .Format "Jan-2. 15:04" }} (CDMX, GMT-5){{ end }}</p>
+            <p class="session-meta" id="date">{{ (. | time).Format "Jan-2. 15:04" }} (CDMX, GMT-6)</p>
               {{ else }}
             <p>Presentado en <a href="{{ $.CurrentSection.Permalink }}">{{ $.CurrentSection.Title }}</a></p>
               {{ end }}

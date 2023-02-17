@@ -1,11 +1,12 @@
 ---
-title: Miguel Ángel de León Trejo
-date: 2023-01-18T01:07:43-06:00
-images : 
+title: "Miguel Angel De León Trejo"
+designation: "Test Architect at Capgemini and TMMI Assessor"
+images:
  - images/speakers/miguel-angel-de-leon-trejo.jpg
-designation : 
 twitter: 
-linkedin: 
-github: 
+linkedin: https://www.linkedin.com/in/miguel-angel-de-le%C3%B3n-trejo-3a665112b/
+events:
+ - 2023
 ---
 
+Arquitecto de Testing en Capgemini con más de 16 años de experiencia en la implementación de herramientas de software orientadas a la mejora de calidad del software, con especialización en Performance, Automatización y Seguridad.
