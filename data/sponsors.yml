@@ -1,25 +1,19 @@
 title_outline : "Patrocinadores"
 title : "SG Virtual es posible gracias a estas empresas"
-show_list :  false
+show_list: false
 sponsor_group:
-  - title : ""
+  - title : "Platinum"
     slug : "sponsor"
     sponsor:
 
       - logo : "images/logos/microsoft.png"
-        link : "https://www.microsoft.com/es-mx/"
-      - logo : "images/logos/GeneXus.png"
-        link : "https://www.genexus.com/es/"
-      - logo : "images/logos/github.png"
-        link : "https://education.github.com/"
-      - logo : "images/logos/fond.png"
-        link : "https://4js.com/"
+        link : "https://www.microsoft.com/es-mx"
 
   - title : "Organismo de apoyo"
     slug : "sponsor"
     sponsor:   
-      - logo : "images/logos/prosoftware.png"
-        link : "https://www.prosoftware.mx/eventos/"
+      - logo : "images/logos/SGVirtual_Prosftware.png"
+        link : "https://www.prosoftware.store/"
 
                       
 # call to action in sponsor
@@ -28,5 +22,5 @@ sponsorship:
   title : "¿Te interesa patrocinar?"
   #button
   label : "Consulta la guía de patrocinios / Prospectus"
-  link : "https://sg.com.mx/sgvirtual/files/SGVirtual2023-Prospectus_en.pdf"
+  link : "https://sg.com.mx/sgvirtual/files/SGVirtual2023-Prospectus-en.pdf"
 

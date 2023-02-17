@@ -52,7 +52,7 @@ speaker:
 
 ######################### sponsor ############################
 sponsor:
-  enable :  false
+  enable :  true
   # sponsor content comes from "data/sponsors.yml"
 
 
