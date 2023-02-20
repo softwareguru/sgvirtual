@@ -100,7 +100,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [params.navigation_button]
 enable = true
 label = "Regístrate"
-link = "tickets"
+link = "registro"
 
 [params.tito_widget]
 event = "softwareguru/sgvirtual2023"

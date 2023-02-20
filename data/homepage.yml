@@ -13,7 +13,7 @@ banner:
   button1:
     enable : true
     label : "Regístrate"
-    link : "tickets"
+    link : "registro"
   button2:
     enable : true
     label : "Patrocina"
