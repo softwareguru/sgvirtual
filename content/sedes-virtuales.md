@@ -40,7 +40,7 @@ Para los estudiantes, **acercarlos a temas actuales** es una gran oportunidad de
 
 <h2> ¿Qué necesitaría como sede virtual? </h2>
 
-* Tener disponible un espacio donde puedan ver las charlas del 28 al 30 de marzo. O bien, para el día del o los temas de su interés.
+* Tener disponible un espacio donde puedan ver las charlas del 28 al 31 de marzo. O bien, para el día del o los temas de su interés.
 * Disponibilidad de los coordinadores de sede para una llamada con el fin de explicarles la plataforma que utilizaremos para el evento. Así, asegurar que la transmisión se lleve a cabo con éxito.
 
 
