@@ -56,7 +56,6 @@ link="https://kit.fontawesome.com/4a6d2efc2e.js"
 [[params.plugins.js]]
 link="https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.js"
 
-
 ############################## navigation ###############################
 
 
@@ -81,7 +80,6 @@ end_date = "2023-03-30T17:00-05:00"
 
 footer_content = "Es otro fantástico evento de [Software Guru](https://sg.com.mx). <br>SG es el medio preferido por las personas de habla hispana interesadas en construir software de alto desempeño."
 
-
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -100,9 +98,12 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
 [params.navigation_button]
-enable = false
+enable = true
 label = "Regístrate"
-link = "/sgvirtual/register/"
+link = "tickets"
+
+[params.tito_widget]
+event = "softwareguru/sgvirtual2023"
 
 
 ############################# social icon ############################
@@ -179,10 +180,10 @@ link = "mailto:sgvirtual@sg.com.mx"
     #weight = 2
 
 
-  [[menu.main]]
-  name = "Conferencistas anteriores"
-  URL = "/speakers/archive"
-  weight = 2
+#  [[menu.main]]
+  #name = "Conferencistas anteriores"
+  #URL = "/speakers/archive"
+  #weight = 2
 
   #[[menu.main]]
   #name = "Kit virtual"

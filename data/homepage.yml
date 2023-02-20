@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "SG Virtual Conference"
-  date_time : "28 al 30 de marzo de 2023."
+  date_time : "28 al 31 de marzo de 2023."
   venue: "Sede: Donde tú te encuentres."
   slogan: "Testing, ciberseguridad y desarrollo acelerado."
   description : |
@@ -12,8 +12,8 @@ banner:
 
   button1:
     enable : true
-    label : "Envía una propuesta"
-    link : "https://convoca.dev/sgvirtual2023/cfp"
+    label : "Regístrate"
+    link : "tickets"
   button2:
     enable : true
     label : "Patrocina"

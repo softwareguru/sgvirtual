@@ -43,9 +43,18 @@
     <link rel="shortcut icon" href="{{ `favicon.ico` | relURL }}" type="image/x-icon">
     <link rel="icon" href="{{ `favicon.ico` | relURL }}" type="image/x-icon">
 
-    <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+   {{ with .Site.Params.tito_widget }}
+    <script src="https://js.tito.io/v2/with/ga4" async></script>
+    <script>
+      window.tito = window.tito || function() {(tito.q = tito.q || []).push(arguments);};
 
-      
+      function showWidget(event) {
+        event.preventDefault();
+        tito('widget.mount', { el: "#tito-widget", event: "{{.event}}" })
+      }
+    </script>
+    {{ end }}  
+
   </head>
   
 

@@ -2,13 +2,13 @@
 
 <section class="section {{ .Type }}">
   <div class="container">
-    <article>
+    <article class="{{.Title | urlize}}">
       <div class="row section-heading">
         <div class="heading">
           <h1 class="stroke-text">{{ .Title }}</h1>
         </div>
       </div>
-      <div class="row">
+      <div>
         {{ .Content }}
       </div>      
     </article>
