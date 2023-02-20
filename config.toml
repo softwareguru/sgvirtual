@@ -76,7 +76,10 @@ author = "Software Guru"
 disclaimer = ""
 
 start_date = "2023-03-28T10:00-05:00"
-end_date = "2023-03-30T17:00-05:00"
+end_date = "2023-03-31T17:00-05:00"
+price = 0
+price_currency = "MXN"
+valid_from = "2023-02-10T12:00"
 
 footer_content = "Es otro fantástico evento de [Software Guru](https://sg.com.mx). <br>SG es el medio preferido por las personas de habla hispana interesadas en construir software de alto desempeño."
 
@@ -101,9 +104,6 @@ preloader = "" # use jpg, png, svg or gif format.
 enable = true
 label = "Regístrate"
 link = "registro"
-
-[params.tito_widget]
-event = "softwareguru/sgvirtual2023"
 
 
 ############################# social icon ############################

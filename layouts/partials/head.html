@@ -43,18 +43,46 @@
     <link rel="shortcut icon" href="{{ `favicon.ico` | relURL }}" type="image/x-icon">
     <link rel="icon" href="{{ `favicon.ico` | relURL }}" type="image/x-icon">
 
-   {{ with .Site.Params.tito_widget }}
-    <script src="https://js.tito.io/v2/with/ga4" async></script>
-    <script>
-      window.tito = window.tito || function() {(tito.q = tito.q || []).push(arguments);};
+    {{ if .IsHome }}
 
-      function showWidget(event) {
-        event.preventDefault();
-        tito('widget.mount', { el: "#tito-widget", event: "{{.event}}" })
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": {{ .Site.Title }},
+        "startDate": {{ .Site.Params.start_date }},
+        "endDate": {{ .Site.Params.end_date }},
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+        "location": {
+          "@type": "VirtualLocation",
+          "url": {{ .Site.BaseURL }}
+        },
+        "image": [
+          {{ .Site.Params.image | absURL }}
+        ],
+        "description": {{ .Site.Params.description }},
+        "offers": {
+          "@type": "Offer",
+          "url": {{ with .Site.Params.navigation_button.link }}{{ . | absURL }}{{ end }},
+          "price": "{{ .Site.Params.price }}",
+          "priceCurrency": "{{ .Site.Params.price_currency }}",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "{{ .Site.Params.valid_from }}"
+        },
+        "performer": {
+          "@type": "PerformingGroup",
+          "name": "Software Guru"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "Software Guru",
+          "url": "https://sg.com.mx/about-us"
+        }
       }
     </script>
-    {{ end }}  
-
+    {{ end }}
+  
   </head>
   
 
