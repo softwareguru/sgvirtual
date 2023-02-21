@@ -3,10 +3,10 @@ title: "Algoritmos Cuánticos y Ciberseguridad: vulnerablidades, retos y oportun
 slug: algoritmos-cuanticos-y-ciberseguridad-vulnerablidades-retos-y-oportunidades
 speakers:
  - Salvador Elías Venegas Andraca
-time_start: 2023-03-29T15:00:00-06:00
-time_end: 2023-03-29T15:40:00-06:00
+time_start: 2023-03-29T15:40:00-06:00
+time_end: 2023-03-29T16:20:00-06:00
 day: b
-timeslot: 6
+timeslot: 8
 room: 1
 timeorder: 1
 track: seguridad

@@ -3,10 +3,10 @@ title: "Construyendo arquitecturas zero trust sobre entornos cloud"
 slug: construyendo-arquitecturas-zero-trust-sobre-entornos-cloud
 speakers:
  - José Manuel Ortega
-time_start: 2023-03-29T12:50:00-06:00
-time_end: 2023-03-29T13:30:00-06:00
+time_start: 2023-03-29T13:30:00-06:00
+time_end: 2023-03-29T14:10:00-06:00
 day: b
-timeslot: 5
+timeslot: 6
 room: 1
 timeorder: 1
 track: seguridad

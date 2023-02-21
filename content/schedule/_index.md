@@ -25,15 +25,18 @@ days:
         time_start: 2023-03-28 12:50:00 -0600 CDT
         type: charla
       - id: 6
-        time_start: 2023-03-28 15:00:00 -0600 CDT
+        time_start: 2023-03-28 13:30:00 -0600 CDT
         type: charla
       - id: 7
-        time_start: 2023-03-28 15:40:00 -0600 CDT
+        time_start: 2023-03-28 15:00:00 -0600 CDT
         type: charla
       - id: 8
-        time_start: 2023-03-28 16:30:00 -0600 CDT
+        time_start: 2023-03-28 15:40:00 -0600 CDT
         type: charla
       - id: 9
+        time_start: 2023-03-28 16:30:00 -0600 CDT
+        type: charla
+      - id: 10
         time_start: 2023-03-28 17:10:00 -0600 CDT
         type: charla
 
@@ -58,15 +61,18 @@ days:
         time_start: 2023-03-29 12:50:00 -0600 CDT
         type: charla
       - id: 6
-        time_start: 2023-03-29 15:00:00 -0600 CDT
+        time_start: 2023-03-29 13:30:00 -0600 CDT
         type: charla
       - id: 7
-        time_start: 2023-03-29 15:40:00 -0600 CDT
+        time_start: 2023-03-29 15:00:00 -0600 CDT
         type: charla
       - id: 8
-        time_start: 2023-03-29 16:30:00 -0600 CDT
+        time_start: 2023-03-29 15:40:00 -0600 CDT
         type: charla
       - id: 9
+        time_start: 2023-03-29 16:30:00 -0600 CDT
+        type: charla
+      - id: 10
         time_start: 2023-03-29 17:10:00 -0600 CDT
         type: charla
 

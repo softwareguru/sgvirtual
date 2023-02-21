@@ -6,7 +6,7 @@ speakers:
 time_start: 2023-03-29T17:10:00-06:00
 time_end: 2023-03-29T18:30:00-06:00
 day: b
-timeslot: 9
+timeslot: 10
 room: 1
 timeorder: 1
 track: seguridad

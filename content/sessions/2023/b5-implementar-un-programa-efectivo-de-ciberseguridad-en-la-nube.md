@@ -3,10 +3,10 @@ title: "Implementar un programa efectivo de Ciberseguridad en la nube"
 slug: implementar-un-programa-efectivo-de-ciberseguridad-en-la-nube
 speakers:
  - Luis Moreno
-time_start: 2023-03-29T12:10:00-06:00
-time_end: 2023-03-29T12:50:00-06:00
+time_start: 2023-03-29T12:50:00-06:00
+time_end: 2023-03-29T13:30:00-06:00
 day: b
-timeslot: 4
+timeslot: 5
 room: 1
 timeorder: 1
 track: seguridad

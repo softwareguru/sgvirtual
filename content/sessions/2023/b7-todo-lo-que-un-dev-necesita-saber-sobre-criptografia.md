@@ -3,8 +3,8 @@ title: "Todo lo que un dev necesita saber sobre criptografía"
 slug: todo-lo-que-un-dev-necesita-saber-sobre-criptografia
 speakers:
  - Héctor Iván Patricio Moreno
-time_start: 2023-03-29T15:40:00-06:00
-time_end: 2023-03-29T16:20:00-06:00
+time_start: 2023-03-29T15:00:00-06:00
+time_end: 2023-03-29T15:40:00-06:00
 day: b
 timeslot: 7
 room: 1

@@ -6,7 +6,7 @@ speakers:
 time_start: 2023-03-28T15:40:00-06:00
 time_end: 2023-03-28T16:20:00-06:00
 day: a
-timeslot: 7
+timeslot: 8
 room: 1
 timeorder: 1
 track: testing-qa
