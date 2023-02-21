@@ -142,17 +142,16 @@ link = "mailto:sgvirtual@sg.com.mx"
 
 [menu]
     
-  #[[languages.es.menu.main]]
-  #name = "Agenda"
-  #identifier = "agenda"
-  #URL = "/schedule/"
-  #weight = 1  
-
   [[menu.main]]
-  name = "Sesiones Anteriores"
-  identifier = "sesiones"
-  URL = "/sessions/"
-  weight = 1
+  name = "Agenda"
+  URL = "agenda"
+  weight = 1  
+
+#  [[menu.main]]
+#  name = "Sesiones Anteriores"
+#  identifier = "sesiones"
+#  URL = "/sessions/"
+#  weight = 1
 
   #[[menu.main]]
   #name = "Programa"
@@ -162,7 +161,7 @@ link = "mailto:sgvirtual@sg.com.mx"
   [[menu.main]]
     #identifier = "sedes"
     name = "Sedes Virtuales"
-    url = "/sedes-virtuales"
+    url = "sedes-virtuales"
     weight = 2
 
   #[[menu.main]]
@@ -180,10 +179,10 @@ link = "mailto:sgvirtual@sg.com.mx"
     #weight = 2
 
 
-#  [[menu.main]]
-  #name = "Conferencistas anteriores"
-  #URL = "/speakers/archive"
-  #weight = 2
+  [[menu.main]]
+  name = "Conferencistas"
+  URL = "/speakers/archive"
+  weight = 3
 
   #[[menu.main]]
   #name = "Kit virtual"
