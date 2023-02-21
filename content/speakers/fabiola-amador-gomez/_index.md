@@ -1,5 +1,5 @@
 ---
-title: "Fabiola Amador Gomez"
+title: "Fabiola Amador Gómez"
 designation: "COO and Executive Delivery Manager"
 images:
  - images/speakers/fabiola-amador-gomez.jpg

@@ -157,16 +157,16 @@ link = "mailto:sgvirtual@sg.com.mx"
 #  URL = "/sessions/"
 #  weight = 1
 
-  #[[menu.main]]
-  #name = "Programa"
-  #URL = "/schedule/"
-  #weight = 1
+  [[menu.main]]
+  name = "Conferencistas"
+  URL = "speakers"
+  weight = 2
 
   [[menu.main]]
     #identifier = "sedes"
     name = "Sedes Virtuales"
     url = "sedes-virtuales"
-    weight = 2
+    weight = 3
 
   #[[menu.main]]
     #identifier = "category1"
@@ -182,11 +182,6 @@ link = "mailto:sgvirtual@sg.com.mx"
     #parent = "sedes"
     #weight = 2
 
-
-  [[menu.main]]
-  name = "Conferencistas"
-  URL = "/speakers/archive"
-  weight = 3
 
   #[[menu.main]]
   #name = "Kit virtual"

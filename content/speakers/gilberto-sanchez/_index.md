@@ -8,6 +8,8 @@ country: "mx"
 twitter: ""
 linkedin: ""
 github: ""
+events:
+ - 2023
 ---
 
 Entusiasta Ingeniero de Pruebas de Software con más de 8 años de experiencia en diferentes roles como analista de pruebas, líder de pruebas, arquitecto de pruebas, scrum master. 

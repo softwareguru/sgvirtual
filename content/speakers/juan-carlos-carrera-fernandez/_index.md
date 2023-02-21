@@ -2,7 +2,7 @@
 title: "Juan Carlos Carrera Fernández"
 designation: "Web Developer and Analyst at GoPlus Web"
 images:
- - images/speakers/juan-carlos-carrera-fernandez.jpg
+ - images/speakers/speaker.jpg
 twitter: 
 linkedin: 
 events:

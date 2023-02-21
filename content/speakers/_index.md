@@ -4,4 +4,4 @@ description: "SG Virtual reúne a conferencistas expertos que nos acompañan des
 
 ---
 
-Pronto conocerás a los conferencistas de esta edición de SG Virtual Conference.
+Conoce a los conferencistas de esta edición de SG Virtual. También puedes consultar la lista completa de [conferencistas anteriores](archive).
