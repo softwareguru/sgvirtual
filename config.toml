@@ -124,6 +124,10 @@ icon = "tf-ion-social-youtube"
 link = "https://youtube.com/user/RevistaSG"
 
 [[params.footer_links]]
+name = "Archivo de sesiones anteriores"
+link = "/sgvirtual/sessions"
+
+[[params.footer_links]]
 name = "Código de conducta"
 link = "/sgvirtual/coc"
 
