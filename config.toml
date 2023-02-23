@@ -3,7 +3,7 @@
 baseURL = "https://sg.com.mx/sgvirtual/"
 publishDir = "public/sgvirtual"
 
-title = "SG Virtual"
+title = "SG Virtual Conference"
 enableRobotsTXT = true
 languageCode = "es-MX"
 RemovePathAccents = true
