@@ -1,6 +1,6 @@
 ---
 title: "Luis Moreno"
-designation: "Regional Cloud Security Architect en PanAmerican Life Insurance Group"
+designation: "Cloud Security Architect"
 images:
  - images/speakers/luis-moreno.jpg
 twitter: 
