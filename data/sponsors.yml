@@ -8,6 +8,8 @@ sponsor_group:
 
       - logo : "images/logos/microsoft.png"
         link : "https://www.microsoft.com/es-mx"
+      - logo : "images/logos/Softtek-logo.png"
+        link : "http://softtek.com/jobs"
 
   - title : "Organismo de apoyo"
     slug : "sponsor"
