@@ -40,6 +40,16 @@
 {{ end }}
 <!-- /banner -->
 
+<!-- Hidden image (for Linkedin card) -->
+{{ with .Site.Params.images }}
+<section class="section d-none">
+  <div class="container">
+    <img alt="Website card" src="{{ index . 0 | absURL }}" alt="" class="img-fluid">
+  </div> 
+</section>
+{{ end }}
+<!-- hidden image -->
+
 <!-- timer -->
 {{ if $data.homepage.timer.enable }}
 {{ with $data.homepage.timer }}
