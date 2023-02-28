@@ -1,5 +1,5 @@
 ---
-title: "Vulnerabilities Scanning with Github Actions"
+title: "Escaneo de vulnerabilidades con Github Actions"
 slug: vulnerabilities-scanning-with-github-actions
 speakers:
  - Enrique Cuevas

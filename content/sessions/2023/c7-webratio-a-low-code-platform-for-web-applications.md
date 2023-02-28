@@ -1,5 +1,5 @@
 ---
-title: "WebRatio: a Low Code Platform for Web Applications"
+title: "WebRatio: Low code para aplicaciones web"
 slug: webratio-a-low-code-platform-for-web-applications
 speakers:
  - José Alfonso Aguilar Calderón

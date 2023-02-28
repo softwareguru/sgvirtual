@@ -1,5 +1,5 @@
 ---
-title: "Security PR reviews: become the watchman"
+title: "PR reviews: conviértete en vigilante"
 slug: security-pr-reviews-become-the-watchman
 speakers:
  - Cristina Mariscal

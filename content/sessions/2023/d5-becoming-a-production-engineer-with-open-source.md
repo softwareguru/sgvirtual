@@ -1,5 +1,5 @@
 ---
-title: "Becoming a Production Engineer with Open Source"
+title: "Conviértete en Production Engineer usando open source"
 slug: becoming-a-production-engineer-with-open-source
 speakers:
  - David Lazaro Fernandez
