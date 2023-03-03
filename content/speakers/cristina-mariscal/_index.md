@@ -1,6 +1,6 @@
 ---
 title: "Cristina Mariscal"
-designation: "Senior software developer at Apli"
+designation: "Senior software developer"
 images:
  - images/speakers/cristina-mariscal.jpg
 twitter: 
