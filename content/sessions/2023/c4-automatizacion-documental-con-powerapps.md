@@ -1,6 +1,6 @@
 ---
-title: "Automatización documental con PowerApps"
-slug: automatizacion-documental-con-powerapps
+title: " Inteligencia artificial aplicada en la automatización de documentos"
+slug:  inteligencia-artificial-aplicada-automatizacion-documentos
 speakers:
  - José Eslava
 time_start: 2023-03-30T12:10:00-06:00

@@ -14,7 +14,7 @@ sponsor_group:
   - title : "Gold"
     slug : "sponsor"
     sponsor:
-      - logo : "images/logos/contpaqi.png"
+      - logo : "images/logos/SGV_Contpaqi.png"
         link : "https://www.contpaqi.com/"
 
   - title : "Organismo de apoyo"
@@ -22,6 +22,8 @@ sponsor_group:
     sponsor:   
       - logo : "images/logos/SGVirtual_Prosftware.png"
         link : "https://www.prosoftware.store/"
+      - logo : "images/logos/Csoftmty.png"
+        link : "https://csoftmty.org/"
 
                       
 # call to action in sponsor
