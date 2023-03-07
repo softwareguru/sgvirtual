@@ -10,6 +10,8 @@ sponsor_group:
         link : "https://www.microsoft.com/es-mx"
       - logo : "images/logos/Softtek-logo.png"
         link : "http://softtek.com/jobs"
+      - logo : "images/logos/Zcaler.png"
+        link : "https://brand.zscaler.com/"
 
   - title : "Gold"
     slug : "sponsor"
