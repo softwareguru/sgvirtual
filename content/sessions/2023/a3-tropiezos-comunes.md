@@ -3,14 +3,14 @@ title: "Tropiezos comunes en QA moderno"
 slug: tropiezos-comunes
 speakers:
  - Leandro Meléndez
-time_start: 2023-03-28T13:30:00-06:00
-time_end: 2023-03-28T14:10:00-06:00
+time_start: 2023-03-28T11:30:00-06:00
+time_end: 2023-03-28T12:10:00-06:00
 day: a
-timeslot: 6
+timeslot: 3
 room: 1
 timeorder: 1
 track: testing-qa
-draft: true
+
 ---
 
 La automatización de pruebas es una técnica de prueba de software que se realiza utilizando herramientas especiales de software de prueba automatizada para ejecutar un conjunto de casos de prueba. Por el contrario, la prueba manual es realizada por un ser humano que ejecuta cuidadosamente los pasos de la prueba. La automatización de pruebas de software exige inversiones considerables de dinero y recursos.

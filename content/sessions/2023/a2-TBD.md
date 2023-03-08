@@ -1,8 +1,7 @@
 ---
-title: "El impacto de las Pruebas de Software en la vida cotidiana"
-slug: el-impacto-de-las-pruebas-de-software-en-la-vida-cotidiana
+title: "Sesión por confirmar"
+slug: sesion-por-confirmar-a2
 speakers:
- - Brianda Josselin Vázquez Pérez
 time_start: 2023-03-28T10:40:00-06:00
 time_end: 2023-03-28T11:20:00-06:00
 draft: false
