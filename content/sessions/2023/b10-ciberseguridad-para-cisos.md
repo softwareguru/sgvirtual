@@ -3,10 +3,10 @@ title: "Ciberseguridad para CISOs"
 slug: ciberseguridad-para-cisos
 speakers:
  - Hugo de la Mora
-time_start: 2023-03-29T10:40:00-06:00
-time_end: 2023-03-29T11:20:00-06:00
+time_start: 2023-03-29T17:10:00-06:00
+time_end: 2023-03-29T17:50:00-06:00
 day: b
-timeslot: 2
+timeslot: 10
 room: 1
 timeorder: 1
 track: seguridad

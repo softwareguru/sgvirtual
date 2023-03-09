@@ -3,10 +3,10 @@ title: "Escaneo de vulnerabilidades con Github Actions"
 slug: vulnerabilities-scanning-with-github-actions
 speakers:
  - Enrique Cuevas
-time_start: 2023-03-29T17:10:00-06:00
-time_end: 2023-03-29T18:30:00-06:00
+time_start: 2023-03-29T17:50:00-06:00
+time_end: 2023-03-29T19:20:00-06:00
 day: b
-timeslot: 10
+timeslot: 11
 room: 1
 timeorder: 1
 track: seguridad
