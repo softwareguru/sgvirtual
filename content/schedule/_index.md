@@ -75,6 +75,9 @@ days:
       - id: 10
         time_start: 2023-03-29 17:10:00 -0600 CDT
         type: charla
+      - id: 11
+        time_start: 2023-03-29 17:10:00 -0600 CDT
+        type: charla
 
   - id: c
     title_short: "30-Mar: Low code + asistido por IA"
