@@ -1,6 +1,6 @@
 ---
-title: "Cómo implementar automatización de pruebas de software"
-slug: software-testing-automation-forever
+title: "Pruebas de Software: Automatización por Siempre"
+slug: pruebas-de-software
 speakers:
  - Gilberto Sánchez
 time_start: 2023-03-28T12:50:00-06:00
