@@ -1,6 +1,6 @@
 ---
 title: "Armando Ponce Corral"
-date: 2023-03-13T16:34:01-06:00
+date: 2023-03-13T12:34:01-06:00
 images:
  - "images/speakers/armando-ponce.jpg"
 designation : "Solution Arquitect"
