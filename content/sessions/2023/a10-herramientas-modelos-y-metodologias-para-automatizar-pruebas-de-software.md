@@ -10,7 +10,7 @@ timeslot: 10
 room: 1
 timeorder: 1
 track: testing-qa
-
+draft: true
 ---
 
 Estado Actual de la Automatizacion, Herramientas , modelos y metodologias a seguir para automatizar las pruebas
