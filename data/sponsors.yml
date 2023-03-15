@@ -12,6 +12,8 @@ sponsor_group:
         link : "http://softtek.com/jobs"
       - logo : "images/logos/Zscaler.png"
         link : "https://brand.zscaler.com/"
+      - logo : "images/logos/Fourjs_logo_virtual.png"
+        link : "https://4js.com/"
 
 
   - title : "Gold"
