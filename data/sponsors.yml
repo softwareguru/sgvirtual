@@ -29,7 +29,14 @@ sponsor_group:
         link : "https://www.prosoftware.store/"
       - logo : "images/logos/Csoftmty.png"
         link : "https://csoftmty.org/"
-
+      - logo : "images/logos/DevOpsDudalajara.png"
+        link : "#"
+      - logo : "images/logos/Under Test.png"
+        link : "#"
+      - logo : "images/logos/Bisontech.png"
+        link : "#"
+      - logo : "images/logos/Las Chicas del Código.png"
+        link : "#"
                       
 # call to action in sponsor
 sponsorship:
