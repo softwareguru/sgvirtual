@@ -3,10 +3,10 @@ title: "Codificación potenciada por AI: cómo la inteligencia artificial está 
 slug: codificacion-potenciada-por-AI
 speakers:
  - Christian Strevel
-time_start: 2023-03-30T16:20:00-06:00
-time_end: 2023-03-30T17:00:00-06:00
+time_start: 2023-03-30T16:30:00-06:00
+time_end: 2023-03-30T17:10:00-06:00
 day: c
-timeslot: 7
+timeslot: 8
 room: 1
 timeorder: 1
 track: lowcode-ia
