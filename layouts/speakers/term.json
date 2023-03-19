@@ -5,7 +5,7 @@
     "organisation": "{{.Params.designation}}",
     "designation": "{{.Params.designation}}",
     "imageUrl": "{{ with .Params.images }}{{ index . 0 | absURL }}{{ end }}",
-    "bio": "{{.Content}}",
+    "bio": "{{.Content | plainify }}",
     "country": ""
 
 }
