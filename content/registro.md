@@ -6,6 +6,6 @@ aliases:
  - tickets
 ---
 
-La participación en SG Virtual Conference es gratuita, basta con que te registres llenando esta forma. Te enviaremos por correo electrónico los detalles para unirte a las sesiones.
+La plataforma de eventos que usaremos para SG Virtual Conference 2023 (Airmeet) ya está lista y disponible. Para registrarte y acceder al evento visita https://us.airmeet.com/e/7886aa00-bf7a-11ed-a75b-a1f22f0d858d (o da click en el botón a continuación) y en Airmeet da click en el botón "Register for this event".
 
-<div data-tf-widget="XiNgLXSq" data-tf-opacity="100" data-tf-iframe-props="title=Registro a SG Virtual" data-tf-transitive-search-params data-tf-medium="snippet" style="width:100%;height:500px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
+<a href="https://us.airmeet.com/e/7886aa00-bf7a-11ed-a75b-a1f22f0d858d" class="btn btn-hero1 btn-rounded mb-4 mr-4 text-white text-decoration-none">Ir al evento en Airmeet</a>
