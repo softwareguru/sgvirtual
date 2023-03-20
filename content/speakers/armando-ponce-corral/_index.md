@@ -1,15 +1,15 @@
 ---
-title: "Armando Ponce Corral"
+title: Christian Strevel
 date: 2023-03-13T12:34:01-06:00
 images:
- - "images/speakers/armando-ponce.jpg"
-designation : "Solution Architect"
+ - "images/speakers/christian-strevel.jpg"
+designation : Fundador y Director en Intellekt
 country: "mx"
 twitter: ""
-linkedin: "https://www.linkedin.com/in/armando-ponce-371b653/"
+linkedin: https://www.linkedin.com/in/christian-strevel/
 github: ""
 events:
  - 2023
 ---
 
-Armando Ponce es Ingeniero en Sistemas electrónicos del Tecnológico de Monterrey. Tiene 19 de años de experiencia en la industria TI en los cuales ha tenido oportunidad de participar  en el diseño, ejecución y dirección de múltiples proyectos de desarrollo y consultoría. Comenzó su carrera como desarrollador de aplicaciones web, luego como gerente de servicios de desarrollo, preventa, arquitecto de soluciones y finalmente como director del CoE de Low Code de Softtek.
+Christian es fundador y director de Intellekt, una de las empresas líderes en México especializadas en desarrollo de soluciones con tecnologías .NET. Christian es apasionado del Jiu jitsu brasileño, es cinta negra en el equipo de Renzo Gracie - Mario Delgado.
