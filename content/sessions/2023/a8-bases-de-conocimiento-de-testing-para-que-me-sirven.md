@@ -3,6 +3,7 @@ title: "Bases de conocimiento de Testing, ¿para qué me sirven?"
 slug: bases-de-conocimiento-de-testing-para-que-me-sirven
 speakers:
  - Miguel Angel De León Trejo
+ - Javier Mina Mondragón
 time_start: 2023-03-28T15:40:00-06:00
 time_end: 2023-03-28T16:20:00-06:00
 day: a

@@ -164,20 +164,25 @@ link = "mailto:sgvirtual@sg.com.mx"
   URL = "speakers"
   weight = 3
 
-
   [[menu.main]]
-    identifier = "category1"
-    name = "Sedes Virtuales"
-    url = "/sedes-virtuales"
-    parent = "sedes"
-    weight = 2
+  name = "Sedes Participantes"
+  URL = "/sedes-participantes"
+  weight = 5
 
-  [[menu.main]]
-    identifier = "category2"
-    name = "Sedes Participantes"
-    url = "/sedes-participantes"
-    parent = "sedes"
-    weight = 2
+
+  #[[menu.main]]
+  #  identifier = "category1"
+  #  name = "Sedes Virtuales"
+  #  url = "/sedes-virtuales"
+  #  parent = "sedes"
+  #  weight = 2
+
+  #[[menu.main]]
+  #  identifier = "category2"
+  #  name = "Sedes Participantes"
+  #  url = "/sedes-participantes"
+  #  parent = "sedes"
+  #  weight = 2
 
 
   #[[menu.main]]
