@@ -5,7 +5,7 @@ images :
  - images/speakers/joel-acosta.jpg
 designation : Cloud Protection Architect @ Zscaler
 twitter: 
-linkedin: https://www.linkedin.com/in/leandromelendez/
+linkedin: https://www.linkedin.com/in/acostajoel/
 github: 
 events:
  - 2023
