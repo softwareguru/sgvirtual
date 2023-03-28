@@ -22,6 +22,12 @@ sponsor_group:
       - logo : "images/logos/SGV_Contpaqi.png"
         link : "https://www.contpaqi.com/"
 
+  - title : "Silver"
+    slug : "sponsor"
+    sponsor:
+      - logo : "images/logos/Manning-logo.png"
+        link : "https://www.manning.com/"
+
   - title : "Organismo de apoyo"
     slug : "sponsor"
     sponsor:   
