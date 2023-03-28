@@ -42,7 +42,7 @@
         {{ if .Site.Params.navigation_button.enable }}
         {{ "<!-- get start btn -->" | safeHTML }}
         <a href="{{ .Site.Params.navigation_button.link | absURL }}"
-          class="btn btn-secondary btn-rounded mt-3 mt-lg-0">{{ .Site.Params.navigation_button.label }}</a>
+          class="btn btn-secondary btn-rounded mt-3 mt-lg-0" target="_blank">{{ .Site.Params.navigation_button.label }}</a>
         {{ end }}
 
         <!-- Language List 
