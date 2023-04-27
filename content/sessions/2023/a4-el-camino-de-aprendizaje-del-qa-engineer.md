@@ -11,7 +11,8 @@ room: 1
 timeorder: 1
 track: testing-qa
 draft: true
-
+video: 
+slides: 
 ---
 
 El rol de QA dentro de los equipos sigue evolucionando conforme los enfoques metodológicos tratan de adecuarse a la dinámica de los mercados. Mucho se ha dicho sobre lo que se espera del QA desde el punto de vista técnico y no técnico pero ¿Qué conocimientos necesita el QA Engineer, rol que todos mencionan como el super héroe de QA?¿Cómo puede adquirirlos?¿es suficiente un tutorial o un curso?¿Hay único camino de aprendizaje?

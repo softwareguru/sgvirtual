@@ -10,7 +10,7 @@ timeslot: 3
 room: 1
 timeorder: 1
 track: seguridad
-
+video: https://youtu.be/0rxWX-7zYt8
 ---
 
 En esta sesión abordaremos las principales prácticas y funcionalidades para establecer una base de trabajo segura y ágil, usado GitHub con Azure. Examinaremos algunas de las principales capacidades de seguridad, integración y despliegue continuo que nos facilitan construir software de alta calidad.

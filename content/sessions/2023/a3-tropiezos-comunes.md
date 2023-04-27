@@ -10,7 +10,8 @@ timeslot: 3
 room: 1
 timeorder: 1
 track: testing-qa
-
+video: https://youtu.be/qwIOpGfJajc
+slides: marzo-2023/Tropiezos comunes en QA moderno.pdf
 ---
 
 La automatización de pruebas es una técnica de prueba de software que se realiza utilizando herramientas especiales de software de prueba automatizada para ejecutar un conjunto de casos de prueba. Por el contrario, la prueba manual es realizada por un ser humano que ejecuta cuidadosamente los pasos de la prueba. La automatización de pruebas de software exige inversiones considerables de dinero y recursos.

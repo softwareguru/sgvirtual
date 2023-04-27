@@ -11,6 +11,7 @@ timeslot: 1
 room: 1
 timeorder: 1
 track: lowcode-ia
+video: https://youtu.be/1jNBBzQYBY8
 ---
 
 Genero Enterprise es una plataforma única de desarrollo de aplicaciones Low-Code hecha a medida para soluciones comerciales de misión crítica. Podrás desarrollar aplicaciones de manera más rápida e inteligente, lo que hará que tu empresa sea la más ágil en el mercado. Es más rápido, porque modelarás la mayor parte de tu aplicación sin escribir una sola línea de código. Es más versatil, porque ese código se ejecuta en todas partes, sin recompilación: en servidores, computadoras de escritorio, webtops, teléfonos inteligentes, tabletas o en la nube.

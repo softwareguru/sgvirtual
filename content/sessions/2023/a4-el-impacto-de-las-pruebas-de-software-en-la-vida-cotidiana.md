@@ -11,6 +11,8 @@ timeslot: 4
 room: 1
 timeorder: 1
 track: testing-qa
+video: https://youtu.be/fZdFebb1YiE
+slides: 
 draft: false
 ---
 
