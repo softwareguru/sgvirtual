@@ -10,7 +10,8 @@ timeslot: 7
 room: 1
 timeorder: 1
 track: seguridad
-
+video: https://youtu.be/nWZEu-oB0FQ
+slides: marzo-2023/Todo lo que necesitas saber sobre Criptografía.pdf
 ---
 
 Normalmente escuchamos términos como AES-GCM-256, HMAC-SHA3-256 y ECDSA para integrarlos en conexiones o a veces tenemos la necesidad de cifrar algo y no sabemos por dónde empezar. En esta plática entenderás todo lo necesario para usar la criptografía básica como dev.

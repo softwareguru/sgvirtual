@@ -10,7 +10,8 @@ timeslot: 4
 room: 1
 timeorder: 1
 track: engmgmt
-
+slides: marzo-2023/Kanboard como Open Source para tableros Kanban.pdf
+video: https://youtu.be/jEKpvnYFVHc
 ---
 
 Hoy en día la agilidad de desarrollo de software es importante el factor *Time-to-market* ayudar a nuestros clientes a salir con nuevas funcionalidades o nuevos productos antes de la competencia y un tablero kanban nos da foto completa de lo que ya se tiene para Entrega de Valor y que tenemos pendiente.

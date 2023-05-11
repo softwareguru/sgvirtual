@@ -10,7 +10,8 @@ timeslot: 6
 room: 1
 timeorder: 1
 track: seguridad
-
+slides: marzo-2023/Construyendo arquitecturas zero trust sobre entornos cloud.pdf
+video: https://youtu.be/nBQZBAu_caI
 ---
 
 La adopción de arquitecturas basadas en microservicios ha crecido de manera exponencial en los últimos años. Cuando se trata de obtener la máxima seguridad utilizamos lo que se denomina arquitecturas de “confianza cero” (zero trust architecture). Las arquitecturas de este tipo establecen mecanismos de autenticación y autorización entre nuestros propios microservicios, aumentando de esta manera la seguridad en entornos altamente regulados. 

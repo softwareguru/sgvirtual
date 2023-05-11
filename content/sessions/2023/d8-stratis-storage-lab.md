@@ -10,7 +10,7 @@ timeslot: 8
 room: 1
 timeorder: 1
 track: engmgmt
-
+video: https://youtu.be/VQCTU6RhJ_4
 ---
 
 Stratis es una herramienta para configurar fácilmente pools y sistemas de archivos con funcionalidad de almacenamiento mejorada que funciona dentro del stack de gestión de almacenamiento de Linux. En esta sesión mostraré como instalar y configurar un pool de Stratis, además de varias de sus características que lo distinguen, en Fedora Linux.

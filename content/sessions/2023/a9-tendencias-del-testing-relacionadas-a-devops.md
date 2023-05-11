@@ -10,7 +10,8 @@ timeslot: 9
 room: 1
 timeorder: 1
 track: testing-qa
-
+slides: marzo-2023/Tendencias del Testing relacionadas a DevOps.pdf
+video: https://youtu.be/SzeVBY8TPz0
 ---
 
 Una tendencia común entre las empresas comerciales de todo el mundo es el aumento de las expectativas de los clientes, las actualizaciones tecnológicas y la imprevisibilidad. Muchas empresas están siguiendo procesos de desarrollo de software Agile debido a la magnitud de estos cambios y las incertidumbres que los acompañan.

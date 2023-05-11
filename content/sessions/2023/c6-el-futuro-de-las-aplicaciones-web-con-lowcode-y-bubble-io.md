@@ -10,7 +10,7 @@ timeslot: 6
 room: 1
 timeorder: 1
 track: lowcode-ia
-
+video: https://youtu.be/7-f5FDyOocc
 ---
 
 El futuro de las aplicaciones web está en constante evolución y con el surgimiento de herramientas lowcode estamos presenciando un cambio revolucionario en la forma en que las personas pueden crear y desarrollar aplicaciones.

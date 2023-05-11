@@ -11,7 +11,8 @@ timeslot: 8
 room: 1
 timeorder: 1
 track: testing-qa
-
+video: https://youtu.be/7YA3eFtUptM
+slides: marzo-2023/Bases de conocimiento.pdf
 ---
 
 Cada paso que damos (laboralmente hablando y específicamente en el área de Testing), está compuesto de una serie de decisiones que nos pueden llevar al éxito o al fracaso, entonces, ¿Cómo sabemos que estamos tomando una buena decisión?, la respuesta debería ser sencilla: *Basado en la historia, especialmente en aquella que es cuantificable (Métricas)*; y si la respuesta es simple, ¿Por qué no tenemos bases de conocimiento?... y si la tuviera, ¿para qué me serviría?.

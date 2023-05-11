@@ -10,7 +10,7 @@ timeslot: 10
 room: 1
 timeorder: 1
 track: seguridad
-
+video: https://youtu.be/aqHvjUEC2XY
 ---
 
 Cómo manejar la seguridad en una empresa. Desde el enfoque de infraestructura (onpremise y nubes) software, pentest, datos, gestión (iso27001 y otros estándares) y forense. Aprender desde cero hasta nivel experto los pasos necesarios para cuidar de punta a punta la información.

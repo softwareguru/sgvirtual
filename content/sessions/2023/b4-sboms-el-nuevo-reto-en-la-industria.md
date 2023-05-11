@@ -10,7 +10,7 @@ timeslot: 4
 room: 1
 timeorder: 1
 track: seguridad
-
+video: https://youtu.be/loREHKbLQVU
 ---
 
 ¿Qué es? ¿Puedo definirlo? ¿Cómo afecta a mi trabajo? ¿Soy consumidor? ¿Soy productor? ¿Qué formato? ¿Realmente? 3 estándares..... ¿Cuál debo elegir?

@@ -10,6 +10,7 @@ timeslot: 8
 room: 1
 timeorder: 1
 track: lowcode-ia
+video: https://youtu.be/V_IUxQWynE0
 ---
 
 Únase a nosotros para descubrir cómo la inteligencia artificial está transformando la forma en que se escribe código. En esta charla, presentaremos demostraciones en vivo de cómo los algoritmos de aprendizaje automático pueden sugerir líneas de código, identificar errores y mejorar la calidad del código. También exploraremos cómo la integración de la IA en los procesos de desarrollo puede acelerar la entrega de software y reducir los errores en el código. No se pierda esta oportunidad de aprender cómo la IA está revolucionando el mundo de la codificación.

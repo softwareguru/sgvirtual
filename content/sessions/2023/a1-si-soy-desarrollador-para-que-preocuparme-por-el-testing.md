@@ -11,7 +11,7 @@ room: 1
 timeorder: 1
 track: testing-qa
 video: https://youtu.be/k-iqP1FyYUI
-slides: mayo-2023/Si soy desarrollador,para qué preocuparme por el testing.pdf
+slides: marzo-2023/Si soy desarrollador,para qué preocuparme por el testing.pdf
 ---
 
 Hacer testing en el desarrollo de software no es opcional en estos días. Entender la importancia de saber e incorporar los diferentes tipos de testing que existen, puede ser crucial para el éxito de nuestras soluciones. Tomemos este tiempo para platicar sobre cómo hacer testing de la mejor manera.

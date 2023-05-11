@@ -10,7 +10,8 @@ timeslot: 2
 room: 1
 timeorder: 1
 track: engmgmt
-
+slides: marzo-2023/Un software que funcione no es suficiente Reflexiones acerca del diseño de software.pdf
+video: https://youtu.be/MvMWMgBx-6U
 ---
 
 En la actualidad, ya no es suficiente con producir solo un software que funcione. Pensar en cómo diseñaremos el código de nuestro software es una tarea de todos los días. En esta charla, hablaremos sobre prácticas útiles para tener un código base bien diseñado y lo más sano posible.

@@ -10,7 +10,8 @@ timeslot: 6
 room: 1
 timeorder: 1
 track: engmgmt
-
+slides: marzo-2023/Jira como herramienta de gestión en Software - SGVirtual2023.pdf
+video: https://youtu.be/oxnvd-ot7HI
 ---
 
 Como desarrollador de software, es importante contar con herramientas que te ayuden a mantener el control de tus proyectos y asegurarte de cumplir con los plazos. Jira es una de esas herramientas que se ha convertido en una elección popular entre los desarrolladores debido a sus características y funcionalidades. 

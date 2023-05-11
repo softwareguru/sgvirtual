@@ -1,5 +1,5 @@
 ---
-title: " Inteligencia artificial aplicada en la automatización de documentos"
+title: "Inteligencia artificial aplicada en la automatización de documentos"
 slug:  inteligencia-artificial-aplicada-automatizacion-documentos
 speakers:
  - José Eslava
@@ -10,7 +10,8 @@ timeslot: 4
 room: 1
 timeorder: 1
 track: lowcode-ia
-
+slides: marzo-2023/Inteligencia artificial aplicada en la automatización de documentos.pdf
+video: https://youtu.be/Z8_sfV8fKlM
 ---
 
 Se necesitarán 500 millones de aplicaciones en los próximos 5 años

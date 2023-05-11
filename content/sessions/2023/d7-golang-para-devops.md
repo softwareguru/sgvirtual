@@ -10,7 +10,8 @@ timeslot: 7
 room: 1
 timeorder: 1
 track: engmgmt
-
+video: https://youtu.be/cxqGNCFYJzs
+slides: marzo-2023/Golang para DevOps.pdf
 ---
 
 En el dia a dia de un DevOps se usan herramientas para automatizacion, deployment y varias tareas del dia a dia de un DevOps. La mayoria de estas herramientas ya estan escritas o hechas por un tercero. La diferencia en el dia al dia es si un DevOps abe tirar linea de codigo. La mayoria de los DevOps usan lenguajes como Python, Bash o algun otro lenguaje que se les acomode. En esta platica daremos introduccion a Golang y como un DevOps puede aplicarlo a la hora de automatizar tareas del dia al dia.

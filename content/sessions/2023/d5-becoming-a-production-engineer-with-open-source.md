@@ -10,7 +10,8 @@ timeslot: 5
 room: 1
 timeorder: 1
 track: engmgmt
-
+video: https://youtu.be/zzYB0q0jwAk
+slides: https://www.figma.com/proto/G2TRzmOOB8aHwQgjUzt3T3/SG-VIRTUAL?node-id=1-2&scaling=contain&page-id=0%3A1
 ---
 
 ¿Conoces el termino Production Engineering o Site Reliability Engineering y como se pueden relacionar con el Open Source?

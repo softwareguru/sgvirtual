@@ -10,7 +10,7 @@ timeslot: 8
 room: 1
 timeorder: 1
 track: seguridad
-
+video: https://youtu.be/0Xn_Lrruv7Q
 ---
 
 En la tecnología cuántica, campo del conocimiento en que se conjugan la física, la matemática, la ciencia computacional y la ingeniería, buscamos entender cómo la física cuántica (esto es, la física de lo tremendamente pequeño, del tamaño de los átomos y las partículas que los forman) se puede utilizar para incrementar sustancialmente nuestra capacidad de procesamiento de información, esto es, de cómputo y de comunicación de datos. Ejemplos de tecnología cuántica son la criptografía cuántica, las computadoras cuánticas y los sensores cuánticos.
