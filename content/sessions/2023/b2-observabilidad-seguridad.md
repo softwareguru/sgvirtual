@@ -11,6 +11,7 @@ room: 1
 timeorder: 1
 track: seguridad
 draft: false
+video: https://youtu.be/-_I_kHFuJss
 ---
 
 Contexto DevSecOps, Observabilidad como insumo de Seguridad.
