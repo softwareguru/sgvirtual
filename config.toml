@@ -149,40 +149,34 @@ link = "mailto:sgvirtual@sg.com.mx"
 [menu]
     
   [[menu.main]]
-  name = "Sesiones 2023"
-  URL = "sessions/2023/"
-  weight = 1  
-
-#  [[menu.main]]
-#  name = "Sesiones Anteriores"
-#  identifier = "sesiones"
-#  URL = "/sessions/"
-#  weight = 1
+  name = "Sesiones Anteriores"
+  URL = "/sessions/"
+  weight = 1
 
   [[menu.main]]
-  name = "Conferencistas"
-  URL = "speakers"
+  name = "Conferencistas anteriores"
+  URL = "speakers/archive"
   weight = 3
 
+  #[[menu.main]]
+  #name = "Sedes Participantes 2023"
+  #URL = "/sedes-participantes"
+  #weight = 5
+
+
   [[menu.main]]
-  name = "Sedes Participantes 2023"
-  URL = "/sedes-participantes"
-  weight = 5
+    identifier = "category1"
+    name = "Sedes Virtuales"
+    url = "/sedes-virtuales"
+    parent = "sedes"
+    weight = 2
 
-
-  #[[menu.main]]
-  #  identifier = "category1"
-  #  name = "Sedes Virtuales"
-  #  url = "/sedes-virtuales"
-  #  parent = "sedes"
-  #  weight = 2
-
-  #[[menu.main]]
-  #  identifier = "category2"
-  #  name = "Sedes Participantes"
-  #  url = "/sedes-participantes"
-  #  parent = "sedes"
-  #  weight = 2
+  [[menu.main]]
+    identifier = "category2"
+    name = "Sedes Marzo 2023"
+    url = "https://sg1.run/registrosedeseptiembre"
+    parent = "sedes"
+    weight = 2
 
 
   #[[menu.main]]
@@ -198,5 +192,5 @@ link = "mailto:sgvirtual@sg.com.mx"
   [[menu.main]]
   name = "FAQ"
   URL = "/faq/"
-  weight = 5
+  weight = 8
 

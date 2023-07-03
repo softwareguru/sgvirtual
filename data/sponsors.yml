@@ -2,43 +2,43 @@ title_outline : "Patrocinadores"
 title : "SG Virtual es posible gracias a estas empresas"
 show_list: false
 sponsor_group:
-  - title : "Platinum"
-    slug : "sponsor"
-    sponsor:
+  #- title : "Platinum"
+  #  slug : "sponsor"
+  #  sponsor:
 
-      - logo : "images/logos/microsoft.png"
-        link : "https://www.microsoft.com/es-mx"
-      - logo : "images/logos/Softtek-logo.png"
-        link : "http://softtek.com/jobs"
-      - logo : "images/logos/Zscaler.png"
-        link :  https://www.zscaler.com.mx
-      - logo : "images/logos/Fourjs_logo_virtual.png"
-        link : "https://4js.com/"
+  #    - logo : "images/logos/microsoft.png"
+  #      link : "https://www.microsoft.com/es-mx"
+  #    - logo : "images/logos/Softtek-logo.png"
+  #      link : "http://softtek.com/jobs"
+  #    - logo : "images/logos/Zscaler.png"
+  #      link :  https://www.zscaler.com.mx
+  #    - logo : "images/logos/Fourjs_logo_virtual.png"
+  #      link : "https://4js.com/"
 
 
-  - title : "Gold"
-    slug : "sponsor"
-    sponsor:
-      - logo : "images/logos/SGV_Contpaqi.png"
-        link : "https://www.contpaqi.com/"
-      - logo : "images/logos/Manning-logo.png"
-        link : "https://www.manning.com/"
+  #- title : "Gold"
+  #  slug : "sponsor"
+  #  sponsor:
+  #    - logo : "images/logos/SGV_Contpaqi.png"
+  #      link : "https://www.contpaqi.com/"
+  #    - logo : "images/logos/Manning-logo.png"
+  #      link : "https://www.manning.com/"
 
-  - title : "Organismo de apoyo"
-    slug : "sponsor"
-    sponsor:   
-      - logo : "images/logos/SGVirtual_Prosftware.png"
-        link : "https://www.prosoftware.store/"
-      - logo : "images/logos/Csoftmty.png"
-        link : "https://csoftmty.org/"
-      - logo : "images/logos/DevOpsDudalajara.png"
-        link : "#"
-      - logo : "images/logos/Under Test.png"
-        link : "#"
-      - logo : "images/logos/Bisontech.png"
-        link : "#"
-      - logo : "images/logos/Las Chicas del Código.png"
-        link : "#"
+  #- title : "Organismo de apoyo"
+  #  slug : "sponsor"
+  #  sponsor:   
+  #    - logo : "images/logos/SGVirtual_Prosftware.png"
+  #      link : "https://www.prosoftware.store/"
+  #    - logo : "images/logos/Csoftmty.png"
+  #      link : "https://csoftmty.org/"
+  #    - logo : "images/logos/DevOpsDudalajara.png"
+  #      link : "#"
+  #    - logo : "images/logos/Under Test.png"
+  #      link : "#"
+  #    - logo : "images/logos/Bisontech.png"
+  #      link : "#"
+  #    - logo : "images/logos/Las Chicas del Código.png"
+  #      link : "#"
                       
 # call to action in sponsor
 sponsorship:
@@ -46,5 +46,5 @@ sponsorship:
   title : "¿Te interesa patrocinar?"
   #button
   label : "Consulta la guía de patrocinios / Prospectus"
-  link : "https://sg.com.mx/sgvirtual/files/SGVirtual2023-Prospectus-en.pdf"
+  link : "/sgvirtual/files/SGVirtualH22023 - Prospectus .pdf"
 
