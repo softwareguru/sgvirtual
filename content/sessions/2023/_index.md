@@ -1,5 +1,5 @@
 ---
-title: "SG Virtual 2023"
+title: "SG Virtual 2023 H1"
 date: 2023-02-10T10:00:00
 draft: false
 headscripts:

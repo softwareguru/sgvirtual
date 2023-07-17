@@ -47,7 +47,7 @@ Para los estudiantes, **acercarlos a temas actuales** es una gran oportunidad de
 <br>
 <br>
 <center>
-<a href="https://sg1.run/sedesvirtuales" class="btn btn-hero1 btn-rounded" style="color: white; float: right; text-decoration: none;">Quiero registrar una sede virtual</a><center>
+<a href="https://sg1.run/registrosedeseptiembre" target="_blank" class="btn btn-hero1 btn-rounded" style="color: white; float: right; text-decoration: none;">Quiero registrar una sede virtual</a><center>
 
 <br>
 <br><br>

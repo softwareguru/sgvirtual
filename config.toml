@@ -174,7 +174,7 @@ link = "mailto:sgvirtual@sg.com.mx"
   [[menu.main]]
     identifier = "category2"
     name = "Sedes Marzo 2023"
-    url = "https://sg1.run/registrosedeseptiembre"
+    url = "sedes-participantes"
     parent = "sedes"
     weight = 2
 
