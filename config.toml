@@ -71,7 +71,7 @@ add_calendar = false
 description = """SG Virtual es un congreso en línea gratuito para 
 profesionistas de software donde expertos de todo el mundo comparten conocimiento 
 y mejores prácticas para construir software grandioso."""
-images = ["images/sgvirtual2023-cardv2.jpg"]
+images = ["images/sgvirtual2023h2-card.jpg"]
 twitter_user = "@RevistaSG"
 email = "eventos@sg.com.mx"
 author = "Software Guru"
