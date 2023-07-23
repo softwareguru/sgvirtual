@@ -10,9 +10,9 @@ faq:
       content: |
         No, SG Virtual Conference 2023 es totalmente gratuito. 
 
-    - title : "¿Cuál será el horario del evento?"
+    - title : "¿Cuál será la fecha y horario del evento?"
       content : | 
-        SG Virtual Conference 2023 se realizará del 5 al 7 de septiembre de 10 am a 6 pm de la tarde (GMT -6, hora del centro de México).
+        La próxima edición de SG Virtual se realizará del 3 al 5 de octubre de 10 am a 6 pm de la tarde (hora del centro de México, GMT-6).
 
     - title : "¿Cómo reservo mi lugar para sesiones específicas?"
       content : | 
@@ -28,7 +28,7 @@ faq:
         Importante: la constancia se genera con el nombre completo con el que te registraste.
          
             
-    - title : "¿Las grabaciones y slides de las sesiones se compartirán?"
+    - title : "¿Las grabaciones y presentaciones de las sesiones se compartirán?"
       content : "Todas las sesiones serán grabadas y se compartirán con los asistentes del evento, así como las presentaciones (slides)."
 
 

@@ -6,7 +6,7 @@ draft: false
 
 ## Conocimiento y mejores prácticas para construir software grandioso para todos
 
-SG Virtual 2023 hace un llamado a tu universidad o institución para participar como sede virtual en la conferencia gratuita por internet para profesionistas de software de habla hispana.
+Software Guru hace un llamado a tu universidad o institución para participar como sede virtual en la conferencia gratuita por internet para profesionistas de software de habla hispana.
 
 ## ¿Qué es una sede virtual?
 
@@ -47,7 +47,7 @@ Para los estudiantes, **acercarlos a temas actuales** es una gran oportunidad de
 <br>
 <br>
 <center>
-<a href="https://sg1.run/registrosedeseptiembre" target="_blank" class="btn btn-hero1 btn-rounded" style="color: white; float: right; text-decoration: none;">Quiero registrar una sede virtual</a><center>
+<a href="https://forms.gle/9DMafhEqGrXEVKD7A" target="_blank" class="btn btn-hero1 btn-rounded" style="color: white; float: right; text-decoration: none;">Quiero registrar una sede virtual</a><center>
 
 <br>
 <br><br>

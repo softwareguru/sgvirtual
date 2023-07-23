@@ -2,19 +2,24 @@
 banner:
   enable : true
   title : "SG Virtual Conference"
-  date_time : "Del 5 al 7 de septiembre de 2023."
+  date_time : "Del 3 al 5 de octubre de 2023."
   venue: "Sede: Donde tú te encuentres."
-  slogan: "Observability, Continuous Integration Delivery, FinOps + GreenOps."
+  slogan: "Dominando la nube"
   description : |
 
-    SG Virtual es un congreso en línea gratuito para profesionistas de software donde expertos de todo el mundo comparten conocimiento y mejores prácticas para construir software grandioso.
+    SG Virtual es una conferencia virtual gratuita para profesionales y aprendices de software de habla hispana, donde colegas comparten conocimiento y mejores prácticas para construir software grandioso.
+
+    La edición de otoño 2023 está enfocada en temas para gestión de aplicaciones e infraestructura cloud, específicamente: 
+     * Observabilidad
+     * Integración/entrega continua (CI/CD)
+     * FinOps + GreenOps    
 
   button1:
     enable : true
-    label : "Ver sesiones previas"
-    link : "sessions/"
+    label : "Regístrate"
+    link : "https://us.airmeet.com/e/400f2760-2825-11ee-9c3b-b7ea7dc1ff8b"
   button2:
-    enable : false
+    enable : true
     label : "Patrocina"
     link : "/sgvirtual/patrocina"
 
@@ -51,21 +56,9 @@ speaker:
 
 ######################### sponsor ############################
 sponsor:
-  enable :  true
+  enable :  false
   # sponsor content comes from "data/sponsors.yml"
 
-
-################################ venue ########################
-venue:
-  enable : false
-  title : "Venue location"
-  image : "images/bg/cta-bg.jpg"
-  date : "18 - 21 December, 2019"
-  location : "85 Golden Street, Darlinghurst <br>ERP 2019, United States"
-  button: 
-    enable : true
-    label : "View Map location"
-    link : "contact"
 
 ############################### Blog ######################################
 blog:
