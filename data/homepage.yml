@@ -17,7 +17,7 @@ banner:
   button1:
     enable : true
     label : "Regístrate"
-    link : "https://us.airmeet.com/e/400f2760-2825-11ee-9c3b-b7ea7dc1ff8b"
+    link : "/sgvirtual/registro"
   button2:
     enable : true
     label : "Patrocina"

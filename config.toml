@@ -105,7 +105,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [params.navigation_button]
 enable = true
 label = "Regístrate"
-link = "https://us.airmeet.com/e/400f2760-2825-11ee-9c3b-b7ea7dc1ff8b"
+link = "/sgvirtual/registro"
 
 
 ############################# social icon ############################
