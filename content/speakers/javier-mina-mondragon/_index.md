@@ -7,6 +7,6 @@ designation : "Engagement Manager en Capgemini"
 country: "mx"
 github: ""
 events:
- - "2023"
+ - 2023
 ---
 

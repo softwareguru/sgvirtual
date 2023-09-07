@@ -163,7 +163,7 @@ link = "mailto:sgvirtual@sg.com.mx"
     identifier = "category1"
     name = "Sedes Virtuales"
     url = "/sedes-virtuales"
-    weight = 2
+    weight = 4
 
   #[[menu.main]]
   #  identifier = "category2"
@@ -186,22 +186,15 @@ link = "mailto:sgvirtual@sg.com.mx"
   [[menu.main]]
   name = "FAQ"
   URL = "/faq/"
-  weight = 4
+  weight = 5
 
   [[menu.main]]
-  name = "Ediciones anteriores"
-  URL = "/sessions/"
-  weight = 6
-
-
-  [[menu.main]]
-  name = "Sesiones Anteriores"
-  URL = "/sessions/"
-  parent="Ediciones anteriores"
-  weight = 1
-
-  [[menu.main]]
-  name = "Conferencistas anteriores"
-  URL = "speakers/archive"
-  parent="Ediciones anteriores"
+  name = "Agenda"
+  URL = "/agenda/"
   weight = 2
+
+  [[menu.main]]
+  name = "Conferencistas"
+  URL = "/speakers/"
+  weight = 3
+
