@@ -24,15 +24,15 @@ sponsor_group:
   #    - logo : "images/logos/Manning-logo.png"
   #      link : "https://www.manning.com/"
 
-  #- title : "Organismo de apoyo"
-  #  slug : "sponsor"
-  #  sponsor:   
-  #    - logo : "images/logos/SGVirtual_Prosftware.png"
-  #      link : "https://www.prosoftware.store/"
-  #    - logo : "images/logos/Csoftmty.png"
-  #      link : "https://csoftmty.org/"
-  #    - logo : "images/logos/DevOpsDudalajara.png"
-  #      link : "#"
+  - title : "Apoyos"
+    slug : "sponsor"
+    sponsor:   
+      - logo : "images/logos/Logo_amiti.png"
+        link : "https://amiti.org.mx/"
+      - logo : "images/logos/prosoftware-logo.jpg"
+        link : "https://www.prosoftware.store/"
+      - logo : "images/logos/Csoftmty.png"
+        link : "https://csoftmty.org/"
   #    - logo : "images/logos/Under Test.png"
   #      link : "#"
   #    - logo : "images/logos/Bisontech.png"
@@ -46,5 +46,5 @@ sponsorship:
   title : "¿Te interesa patrocinar?"
   #button
   label : "Consulta la guía de patrocinios / Prospectus"
-  link : "/sgvirtual/files/SGVirtualH22023 - Prospectus .pdf"
+  link : "/sgvirtual/files/SGVirtual2023h2-Prospectus_v2.pdf"
 
