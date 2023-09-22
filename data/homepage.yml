@@ -16,8 +16,8 @@ banner:
 
   button1:
     enable : true
-    label : "Envía tu propuesta"
-    link : "https://convoca.dev/sgvirtual-2023h2/cfp"
+    label : "Regístrate"
+    link : "/sgvirtual/registro"
   button2:
     enable : true
     label : "Patrocina"
@@ -56,7 +56,7 @@ speaker:
 
 ######################### sponsor ############################
 sponsor:
-  enable :  false
+  enable :  true
   # sponsor content comes from "data/sponsors.yml"
 
 

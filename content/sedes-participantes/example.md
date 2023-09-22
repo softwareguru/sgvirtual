@@ -5,7 +5,7 @@ image: "/images/sedes-participantes/logo-general.png"
 coordinator: "" 
 location: ""
 link: ""
-weight: 9
+weight: 
 draft: true
 ---
 

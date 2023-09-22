@@ -142,8 +142,14 @@ name = "Equipo organizador"
 link = "/sgvirtual/team"
 
 [[params.footer_links]]
+name = "Media Kit"
+link = "/sgvirtual/media-kit"
+
+[[params.footer_links]]
 name = "Contacto"
 link = "mailto:sgvirtual@sg.com.mx"
+
+
 
 
 [menu]
@@ -160,18 +166,23 @@ link = "mailto:sgvirtual@sg.com.mx"
 
 
   [[menu.main]]
-    identifier = "category1"
-    name = "Sedes Virtuales"
-    url = "/sedes-virtuales"
-    weight = 4
+  identifier = "sedes"
+  name = "Sedes"
+  weight = 2
 
-  #[[menu.main]]
-  #  identifier = "category2"
-  #  name = "Sedes Marzo 2023"
-  #  url = "sedes-participantes"
-  #  parent = "sedes"
-  #  weight = 2
+  [[menu.main]]
+    identifier = "program1"
+    name = "Sedes virtuales"
+    URL = "/sedes-virtuales/"
+    parent = "sedes"
+    weight = 1
 
+  [[menu.main]]
+    identifier = "program2"
+    name = "Sedes participantes"
+    url = "/sedes-participantes/"
+    parent = "sedes"
+    weight = 2
 
   #[[menu.main]]
   #name = "Kit virtual"
