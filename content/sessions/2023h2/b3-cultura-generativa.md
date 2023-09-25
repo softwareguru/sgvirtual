@@ -2,7 +2,7 @@
 title: "Creando una Cultura Generativa para SRE"
 slug: cultura-generativa
 speakers:
- - Cristopher Avila
+ - Christopher Avila
 time_start: 2023-10-04T11:20:00-06:00
 time_end: 2023-10-04T11:55:00-06:00
 day: 2023h2b
