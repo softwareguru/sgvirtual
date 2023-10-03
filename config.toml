@@ -150,8 +150,6 @@ name = "Contacto"
 link = "mailto:sgvirtual@sg.com.mx"
 
 
-
-
 [menu]
 
   #[[menu.main]]
@@ -168,7 +166,6 @@ link = "mailto:sgvirtual@sg.com.mx"
     name = "Sedes participantes"
     url = "/sedes-participantes"
     weight = 3
-
 
   #[[menu.main]]
   #identifier = "sedes"

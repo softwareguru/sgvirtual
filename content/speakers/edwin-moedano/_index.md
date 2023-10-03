@@ -3,7 +3,7 @@ title: "Edwin Moedano"
 date: 2020-11-20T18:24:19-06:00
 images:
  - "images/speakers/edwin-moedano.jpg"
-designation: Program Lead & SRE en Wizeline
+designation: Cloud Senior Engineer
 country: "mx"
 linkedin: https://www.linkedin.com/in/edwinmoedano/
 github: 
