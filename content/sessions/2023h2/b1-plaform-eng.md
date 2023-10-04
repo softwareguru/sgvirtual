@@ -11,7 +11,7 @@ room: 1
 timeorder: 1
 track: sre
 video: 
-slides: 
+slides: 2023h2/PlatformEngineering-AlejandraBricio.pdf
 images: 
  - /sgvirtual/images/sessions/2023h2/AlejandraBricio.jpg
 ---
