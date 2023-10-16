@@ -157,13 +157,23 @@ link = "mailto:sgvirtual@sg.com.mx"
   #URL = "/sedes-participantes"
   #weight = 5
 
+  #[[menu.main]]
+  #name = "Agenda"
+  #URL = "/agenda/"
+  #weight = 2
+
   [[menu.main]]
     name = "Acerca de"
     url = "/about"
     weight = 1
 
   [[menu.main]]
-    name = "Sedes participantes"
+  name = "Sesiones anteriores"
+  URL = "/sessions/2023h2/"
+  weight = 2
+
+  [[menu.main]]
+    name = "Sedes"
     url = "/sedes-participantes"
     weight = 3
 
@@ -200,11 +210,6 @@ link = "mailto:sgvirtual@sg.com.mx"
   name = "FAQ"
   URL = "/faq/"
   weight = 5
-
-  [[menu.main]]
-  name = "Agenda"
-  URL = "/agenda/"
-  weight = 2
 
   [[menu.main]]
   name = "Conferencistas"

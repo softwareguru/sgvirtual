@@ -10,8 +10,8 @@ timeslot: 4
 room: 1
 timeorder: 1
 track: sre
-video: 
-slides: 
+video: https://youtu.be/s-pnPelhPw0
+slides: 2023h2/go-chaos.pdf
 
 ---
 

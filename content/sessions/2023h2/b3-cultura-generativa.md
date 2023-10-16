@@ -10,8 +10,8 @@ timeslot: 3
 room: 1
 timeorder: 1
 track: sre
-video: 
-slides: 
+video: https://youtu.be/H7XdIfQbsAg
+slides: 2023h2/Cultura-Generativa-para-SRE.pdf
 
 ---
 

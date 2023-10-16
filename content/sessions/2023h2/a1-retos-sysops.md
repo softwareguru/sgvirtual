@@ -10,8 +10,8 @@ timeslot: 1
 room: 1
 timeorder: 1
 track: sre
-video: 
-slides: 
+video: https://youtu.be/almGXBxfrzE
+slides: https://docs.google.com/presentation/d/1QvUZPiEBg36GYLc93NzI7RMhxGHLQLuL8sCGpEMQ2Aw/edit?usp=sharing
 
 ---
 

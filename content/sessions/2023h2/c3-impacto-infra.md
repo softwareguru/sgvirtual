@@ -10,8 +10,8 @@ timeslot: 3
 room: 1
 timeorder: 1
 track: sre
-video: 
-slides: 
+video: https://youtu.be/RCIwE8sQjvk
+slides: 2023h2/How-Time-&-Space-Complexity-impacts-your-Infrastructure-Edwin Moedano.pdf
 
 ---
 

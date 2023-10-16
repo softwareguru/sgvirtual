@@ -10,8 +10,8 @@ timeslot: 2
 room: 1
 timeorder: 1
 track: sre
-video: 
-slides: 
+video: https://youtu.be/NHxeQ1-txyk
+slides: 2023h2/SRE-Multinube.pdf
 
 ---
 

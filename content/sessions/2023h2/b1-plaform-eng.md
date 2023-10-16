@@ -10,7 +10,7 @@ timeslot: 1
 room: 1
 timeorder: 1
 track: sre
-video: 
+video: https://youtu.be/9I1qdNJf7tc
 slides: 2023h2/PlatformEngineering-AlejandraBricio.pdf
 images: 
  - /sgvirtual/images/sessions/2023h2/AlejandraBricio.jpg
