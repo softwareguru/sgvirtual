@@ -10,7 +10,7 @@ timeslot: 4
 room: 1
 timeorder: 1
 track: sre
-video: 
+video: https://youtu.be/k8GIRat3Gxc
 slides: https://github.com/josechval/sg23-observabilidad/blob/main/observabilidad_en_CGP%20.ipynb
 
 ---

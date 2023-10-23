@@ -103,7 +103,7 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
 [params.navigation_button]
-enable = true
+enable = false
 label = "En vivo"
 link = "https://us.airmeet.com/e/400f2760-2825-11ee-9c3b-b7ea7dc1ff8b"
 

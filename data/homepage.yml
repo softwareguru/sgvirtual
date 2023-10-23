@@ -16,10 +16,10 @@ banner:
 
   button1:
     enable : true
-    label : "Regístrate"
-    link : "/sgvirtual/registro"
+    label : "Ver sesiones anteriores"
+    link : "/sgvirtual/sessions"
   button2:
-    enable : true
+    enable : false
     label : "Patrocina"
     link : "/sgvirtual/patrocina"
 
